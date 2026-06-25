@@ -1,0 +1,843 @@
+hospital_service_area,hospital_county,age_group,zip_code_3_digits,gender,race,ethnicity,length_of_stay,type_of_admission,patient_disposition,discharge_year,ccsr_diagnosis_code,ccsr_procedure_code,apr_drg_code,apr_mdc_code,apr_severity_of_illness_code,apr_risk_of_mortality,apr_medical_surgical_description,payment_typology_1,emergency_department_indicator,total_charges,severity_label
+Finger Lakes,Monroe,30 to 49,145,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,PRG023,MST021,955,14,0,Unknown_Risk,Not Applicable,Blue Cross/Blue Shield,N,6282.49,
+Finger Lakes,Monroe,30 to 49,144,F,White,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,PRG023,MST021,955,14,0,Unknown_Risk,Not Applicable,Blue Cross/Blue Shield,N,4596.63,
+Finger Lakes,Monroe,30 to 49,144,F,White,Not Span/Hispanic,2.0,Urgent,Home or Self Care,2021,PRG024,SKB005,955,14,0,Unknown_Risk,Not Applicable,Blue Cross/Blue Shield,N,8750.86,
+New York City,Bronx,18 to 29,104,F,Other Race,Unknown,1.0,Urgent,Home or Self Care,2021,PRG023,NO_PROCEDURE,955,14,0,Unknown_Risk,Not Applicable,Medicaid,N,6702.21,
+Finger Lakes,Monroe,0 to 17,144,M,White,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,PNL001,ESA004,955,15,0,Unknown_Risk,Not Applicable,Medicaid,Y,57280.21,
+Central NY,Tompkins,18 to 29,148,F,Black/African American,Spanish/Hispanic,1.0,Urgent,Home or Self Care,2021,PRG023,ADM021,955,14,0,Unknown_Risk,Not Applicable,Medicaid,N,2566.76,
+Long Island,Nassau,30 to 49,115,F,Black/African American,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,PRG029,NO_PROCEDURE,955,14,0,Unknown_Risk,Not Applicable,Medicaid,N,7276.35,
+New York City,Kings,30 to 49,104,M,Other Race,Spanish/Hispanic,1.0,Emergency,Another Type Not Listed,2021,MBD018,SUD001,956,0,0,Unknown_Risk,Not Applicable,Medicaid,Y,6022.49,
+New York City,Kings,30 to 49,112,M,Black/African American,Not Span/Hispanic,2.0,Emergency,Another Type Not Listed,2021,MBD017,SUD001,956,0,0,Unknown_Risk,Not Applicable,Medicaid,Y,9976.91,
+New York City,Queens,30 to 49,113,F,Other Race,Spanish/Hispanic,1.0,Emergency,Home or Self Care,2021,PRG023,NO_PROCEDURE,955,14,0,Unknown_Risk,Not Applicable,Medicaid,N,6473.13,
+New York City,Kings,18 to 29,109,F,White,Not Span/Hispanic,8.0,Elective,Home or Self Care,2021,PRG023,PGN001,955,14,0,Unknown_Risk,Not Applicable,Medicaid,N,89291.09,
+Finger Lakes,Monroe,18 to 29,146,F,Other Race,Spanish/Hispanic,3.0,Urgent,Home or Self Care,2021,PRG020,SKB005,955,14,0,Unknown_Risk,Not Applicable,Medicaid,N,9655.84,
+Western NY,Erie,18 to 29,141,F,White,Spanish/Hispanic,1.0,Emergency,Home or Self Care,2021,PRG023,PGN002,955,14,0,Unknown_Risk,Not Applicable,Medicaid,Y,9677.43,
+Hudson Valley,Sullivan,30 to 49,127,F,Other Race,Spanish/Hispanic,3.0,Elective,Home or Self Care,2021,PRG011,PGN002,955,14,0,Unknown_Risk,Not Applicable,Private Health Insurance,N,33876.78,
+Central NY,Oneida,50 to 69,135,M,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,CIR019,GIS016,194,5,1,Moderate,Medical,Blue Cross/Blue Shield,Y,19990.54,Minor
+New York City,Manhattan,18 to 29,100,F,Black/African American,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,MBD001,NO_PROCEDURE,751,19,1,Minor,Medical,Blue Cross/Blue Shield,Y,16532.05,Minor
+Capital/Adirond,Warren,70 or Older,128,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,CIR011,CAR004,175,5,1,Minor,Surgical,Blue Cross/Blue Shield,Y,45464.57,Minor
+New York City,Richmond,18 to 29,103,F,Other Race,Spanish/Hispanic,6.0,Emergency,Facility w/ Custodial/Supportive Care,2021,MBD003,MHT001,753,19,1,Minor,Medical,Blue Cross/Blue Shield,Y,25275.7,Minor
+New York City,Manhattan,30 to 49,112,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,PRG016,PGN003,540,14,1,Minor,Surgical,Blue Cross/Blue Shield,N,44232.49,Minor
+Capital/Adirond,Rensselaer,50 to 69,120,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,MUS011,MST013,304,8,1,Minor,Surgical,Blue Cross/Blue Shield,N,35162.7,Minor
+New York City,Kings,30 to 49,113,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG017,HEP006,263,7,1,Minor,Surgical,Blue Cross/Blue Shield,Y,8201.91,Minor
+New York City,Queens,0 to 17,115,F,White,Not Span/Hispanic,1.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Blue Cross/Blue Shield,N,10058.33,Minor
+Long Island,Nassau,30 to 49,113,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,DIG012,GIS022,224,6,1,Minor,Surgical,Blue Cross/Blue Shield,Y,77473.68,Minor
+Finger Lakes,Monroe,0 to 17,144,F,White,Not Span/Hispanic,1.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Blue Cross/Blue Shield,N,3115.26,Minor
+Long Island,Suffolk,0 to 17,119,M,White,Not Span/Hispanic,1.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Blue Cross/Blue Shield,N,4606.16,Minor
+Central NY,Onondaga,50 to 69,131,F,White,Spanish/Hispanic,1.0,Elective,Home or Self Care,2021,MUS011,MST013,304,8,1,Minor,Surgical,Blue Cross/Blue Shield,N,72849.52,Minor
+Finger Lakes,Chemung,30 to 49,149,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,END009,GIS019,403,10,1,Minor,Surgical,Blue Cross/Blue Shield,N,34807.85,Minor
+Capital/Adirond,Albany,50 to 69,121,M,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,NEO039,URN012,483,12,1,Minor,Surgical,Blue Cross/Blue Shield,N,38411.15,Minor
+Central NY,Cayuga,30 to 49,130,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,PRG016,PGN003,540,14,1,Minor,Surgical,Blue Cross/Blue Shield,N,13237.24,Minor
+Finger Lakes,Monroe,50 to 69,145,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,CIR009,CAR004,174,5,1,Minor,Surgical,Blue Cross/Blue Shield,Y,42767.61,Minor
+Long Island,Nassau,30 to 49,115,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,PRG013,PGN003,540,14,1,Minor,Surgical,Blue Cross/Blue Shield,N,39580.65,Minor
+New York City,Richmond,50 to 69,103,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INJ001,MST012,92,3,1,Minor,Surgical,Blue Cross/Blue Shield,Y,29351.02,Minor
+Western NY,Chautauqua,0 to 17,147,M,White,Not Span/Hispanic,1.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,1,Minor,Medical,Blue Cross/Blue Shield,N,3229.25,Minor
+New York City,Kings,30 to 49,113,M,Other Race,Spanish/Hispanic,1.0,Emergency,Home or Self Care,2021,CIR012,MAM005,192,5,1,Minor,Medical,Blue Cross/Blue Shield,Y,17686.28,Minor
+New York City,Manhattan,30 to 49,OOS,F,Other Race,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,RSP017,RES001,143,4,1,Minor,Medical,Blue Cross/Blue Shield,N,33343.07,Minor
+New York City,Bronx,30 to 49,104,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,CIR017,IMG008,201,5,1,Minor,Medical,Blue Cross/Blue Shield,Y,11267.99,Minor
+Capital/Adirond,Montgomery,18 to 29,121,F,Other Race,Unknown,3.0,Urgent,Home or Self Care,2021,MBD007,NO_PROCEDURE,755,19,1,Minor,Medical,Blue Cross/Blue Shield,N,4656.2,Minor
+Hudson Valley,Westchester,0 to 17,105,F,White,Not Span/Hispanic,8.0,Emergency,Home or Self Care,2021,MBD002,MHT002,751,19,1,Minor,Medical,Blue Cross/Blue Shield,Y,61729.0,Minor
+New York City,Queens,0 to 17,115,M,White,Not Span/Hispanic,3.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,1,Minor,Medical,Blue Cross/Blue Shield,N,22957.14,Minor
+Central NY,Oneida,50 to 69,134,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Court/Law Enforcement,2021,CIR020,NO_PROCEDURE,45,1,1,Minor,Medical,Department of Corrections,Y,18835.13,Minor
+Capital/Adirond,Albany,18 to 29,129,M,Black/African American,Not Span/Hispanic,2.0,Emergency,Court/Law Enforcement,2021,INJ001,MST012,92,3,1,Minor,Surgical,Department of Corrections,Y,23194.59,Minor
+Central NY,Oneida,50 to 69,134,M,White,Not Span/Hispanic,3.0,Emergency,Psychiatric Hospital or Unit of Hosp,2021,CIR017,CAR004,175,5,1,Minor,Surgical,Department of Corrections,Y,106951.54,Minor
+Hudson Valley,Westchester,50 to 69,125,M,Black/African American,Multi-ethnic,3.0,Elective,Court/Law Enforcement,2021,MUS006,MST007,324,8,1,Minor,Surgical,Department of Corrections,N,43522.7,Minor
+Hudson Valley,Westchester,50 to 69,125,M,Other Race,Not Span/Hispanic,4.0,Elective,Court/Law Enforcement,2021,MUS006,MST006,326,8,1,Minor,Surgical,Department of Corrections,N,77480.16,Minor
+Hudson Valley,Westchester,50 to 69,125,M,Black/African American,Not Span/Hispanic,3.0,Emergency,Court/Law Enforcement,2021,SYM001,NO_PROCEDURE,204,5,1,Minor,Medical,Department of Corrections,Y,82988.0,Minor
+Capital/Adirond,Albany,70 or Older,OOS,M,White,Not Span/Hispanic,4.0,Emergency,Court/Law Enforcement,2021,CIR009,CAR004,174,5,1,Minor,Surgical,Department of Corrections,Y,83912.15,Minor
+Capital/Adirond,Albany,18 to 29,122,M,Other Race,Spanish/Hispanic,3.0,Emergency,Court/Law Enforcement,2021,SKN001,NO_PROCEDURE,383,9,1,Minor,Medical,Department of Corrections,Y,17439.79,Minor
+Finger Lakes,Monroe,30 to 49,145,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Court/Law Enforcement,2021,CIR009,CAR004,174,5,1,Minor,Surgical,Department of Corrections,Y,39477.27,Minor
+Long Island,Suffolk,0 to 17,117,M,Other Race,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,SKN001,NO_PROCEDURE,383,9,1,Minor,Medical,Federal/State/Local/VA,Y,21542.93,Minor
+Western NY,Erie,18 to 29,142,F,Other Race,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,PRG023,PGN002,560,14,1,Minor,Medical,Federal/State/Local/VA,Y,12451.6,Minor
+Hudson Valley,Westchester,0 to 17,107,M,Other Race,Unknown,3.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Federal/State/Local/VA,N,14177.15,Minor
+Western NY,Erie,30 to 49,142,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,PRG029,PGN002,560,14,1,Minor,Medical,Federal/State/Local/VA,N,9395.82,Minor
+Western NY,Erie,30 to 49,142,F,White,Not Span/Hispanic,3.0,Elective,Home or Self Care,2021,PRG016,PGN003,539,14,1,Minor,Surgical,Federal/State/Local/VA,N,34840.78,Minor
+Central NY,Jefferson,0 to 17,136,M,White,Unknown,2.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,1,Minor,Medical,Federal/State/Local/VA,N,2644.9,Minor
+New York City,Richmond,18 to 29,103,M,Other Race,Spanish/Hispanic,1.0,Emergency,Home or Self Care,2021,SYM017,NO_PROCEDURE,861,23,1,Minor,Medical,Federal/State/Local/VA,Y,8712.0,Minor
+Finger Lakes,Monroe,50 to 69,144,F,White,Unknown,3.0,Emergency,Home w/ Home Health Services,2021,INJ005,MST010,309,8,1,Minor,Surgical,Federal/State/Local/VA,Y,26876.12,Minor
+Hudson Valley,Westchester,0 to 17,109,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,END003,NO_PROCEDURE,420,10,1,Minor,Medical,Federal/State/Local/VA,Y,76807.0,Minor
+Western NY,Chautauqua,70 or Older,147,M,White,Not Span/Hispanic,5.0,Emergency,Inpatient Rehabilitation Facility,2021,INJ006,MST010,308,8,1,Minor,Surgical,Federal/State/Local/VA,Y,20244.25,Minor
+Hudson Valley,Dutchess,50 to 69,126,M,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,CIR020,IMG008,45,1,1,Minor,Medical,Federal/State/Local/VA,Y,39495.54,Minor
+New York City,Manhattan,18 to 29,112,M,Other Race,Unknown,3.0,Emergency,Home or Self Care,2021,MBD007,MHT001,755,19,1,Minor,Medical,Federal/State/Local/VA,Y,14142.38,Minor
+Western NY,Erie,30 to 49,142,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,PRG020,PGN002,560,14,1,Minor,Medical,Federal/State/Local/VA,N,7202.69,Minor
+Long Island,Nassau,0 to 17,115,F,Black/African American,Unknown,2.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,1,Minor,Medical,Federal/State/Local/VA,N,15525.81,Minor
+Central NY,Onondaga,50 to 69,132,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,CIR020,ADM021,45,1,1,Minor,Medical,Federal/State/Local/VA,Y,11268.4,Minor
+Western NY,Erie,18 to 29,140,F,Other Race,Unknown,2.0,Emergency,Home or Self Care,2021,PRG023,PGN002,560,14,1,Minor,Medical,Federal/State/Local/VA,Y,10939.73,Minor
+Hudson Valley,Westchester,30 to 49,105,F,Other Race,Spanish/Hispanic,3.0,Elective,Home w/ Home Health Services,2021,PRG023,PGN003,540,14,1,Minor,Surgical,Federal/State/Local/VA,N,17064.28,Minor
+Finger Lakes,Livingston,50 to 69,145,M,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,MUS006,MST007,324,8,1,Minor,Surgical,Federal/State/Local/VA,N,29519.78,Minor
+Central NY,Jefferson,18 to 29,136,F,White,Not Span/Hispanic,2.0,Urgent,Home or Self Care,2021,PRG024,PGN002,560,14,1,Minor,Medical,Federal/State/Local/VA,N,7965.39,Minor
+Central NY,Onondaga,0 to 17,130,M,White,Not Span/Hispanic,1.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,1,Minor,Medical,Federal/State/Local/VA,N,2259.34,Minor
+Central NY,Jefferson,18 to 29,136,F,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,PRG029,PGN002,560,14,1,Minor,Medical,Federal/State/Local/VA,N,8940.89,Minor
+Western NY,Erie,50 to 69,142,F,White,Not Span/Hispanic,4.0,Elective,Home w/ Home Health Services,2021,INJ008,CNS004,20,1,1,Minor,Surgical,Federal/State/Local/VA,N,26477.0,Minor
+Central NY,Onondaga,18 to 29,130,F,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,PRG022,PGN002,560,14,1,Minor,Medical,Federal/State/Local/VA,N,8938.54,Minor
+Finger Lakes,Steuben,70 or Older,148,M,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,MUS006,MST006,326,8,1,Minor,Surgical,Federal/State/Local/VA,N,39383.25,Minor
+Western NY,Chautauqua,50 to 69,140,F,Other Race,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,GEN004,NO_PROCEDURE,463,11,1,Minor,Medical,Federal/State/Local/VA,Y,16397.38,Minor
+Hudson Valley,Dutchess,18 to 29,125,F,White,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,PRG022,PGN002,560,14,1,Minor,Medical,"Managed Care, Unspecified",N,7829.93,Minor
+Long Island,Suffolk,0 to 17,117,M,White,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,1,Minor,Medical,"Managed Care, Unspecified",N,11943.39,Minor
+Hudson Valley,Dutchess,0 to 17,124,F,White,Unknown,1.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,"Managed Care, Unspecified",N,1956.18,Minor
+Capital/Adirond,Albany,50 to 69,120,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INJ011,EYP001,73,2,1,Minor,Surgical,"Managed Care, Unspecified",Y,20099.79,Minor
+Long Island,Suffolk,0 to 17,117,M,White,Spanish/Hispanic,1.0,Emergency,Home or Self Care,2021,INJ004,MST009,315,8,1,Minor,Surgical,"Managed Care, Unspecified",Y,23479.25,Minor
+New York City,Manhattan,30 to 49,112,F,Multi-racial,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,NEO073,FRS010,519,13,1,Minor,Surgical,"Managed Care, Unspecified",N,49354.61,Minor
+Capital/Adirond,Albany,0 to 17,122,F,Black/African American,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,PRG011,PGN003,540,14,1,Minor,Surgical,"Managed Care, Unspecified",N,27143.76,Minor
+Capital/Adirond,Albany,0 to 17,120,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,GEN011,URN010,443,11,1,Minor,Surgical,"Managed Care, Unspecified",N,18729.39,Minor
+Capital/Adirond,Albany,0 to 17,121,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG001,NO_PROCEDURE,249,6,1,Minor,Medical,"Managed Care, Unspecified",Y,14389.55,Minor
+Capital/Adirond,Albany,50 to 69,122,F,Black/African American,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,INF002,ENT006,720,18,1,Minor,Medical,"Managed Care, Unspecified",Y,12916.55,Minor
+Hudson Valley,Dutchess,50 to 69,124,M,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,MUS011,NO_PROCEDURE,347,8,1,Minor,Medical,"Managed Care, Unspecified",Y,6742.75,Minor
+Long Island,Suffolk,30 to 49,119,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,DIG015,GIS028,231,6,1,Minor,Surgical,"Managed Care, Unspecified",N,46452.8,Minor
+Capital/Adirond,Albany,50 to 69,120,F,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,DIG024,NO_PROCEDURE,252,6,1,Moderate,Medical,"Managed Care, Unspecified",N,16004.39,Minor
+Hudson Valley,Dutchess,30 to 49,125,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,PRG024,PGN002,560,14,1,Minor,Medical,"Managed Care, Unspecified",N,8760.48,Minor
+Capital/Adirond,Columbia,30 to 49,120,M,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,CIR017,NO_PROCEDURE,201,5,1,Minor,Medical,"Managed Care, Unspecified",Y,15061.01,Minor
+Capital/Adirond,Albany,0 to 17,134,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,INJ011,ENT017,951,3,1,Minor,Surgical,"Managed Care, Unspecified",Y,14594.35,Minor
+Long Island,Suffolk,0 to 17,117,F,White,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,1,Minor,Medical,"Managed Care, Unspecified",N,9875.0,Minor
+Long Island,Suffolk,18 to 29,119,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,END009,GIS010,403,10,1,Minor,Surgical,"Managed Care, Unspecified",N,42965.26,Minor
+Long Island,Suffolk,30 to 49,119,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,MUS011,MST013,304,8,1,Minor,Surgical,"Managed Care, Unspecified",N,66232.02,Minor
+Hudson Valley,Dutchess,0 to 17,125,F,White,Unknown,1.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,"Managed Care, Unspecified",N,2584.24,Minor
+Long Island,Suffolk,30 to 49,117,F,White,Not Span/Hispanic,4.0,Emergency,Psychiatric Hospital or Unit of Hosp,2021,MBD012,NO_PROCEDURE,817,21,1,Minor,Medical,"Managed Care, Unspecified",Y,56000.0,Minor
+Hudson Valley,Dutchess,30 to 49,125,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,END009,GIS019,403,10,1,Minor,Surgical,"Managed Care, Unspecified",N,17813.92,Minor
+Capital/Adirond,Albany,30 to 49,122,M,Black/African American,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,MBD003,NO_PROCEDURE,753,19,1,Minor,Medical,"Managed Care, Unspecified",Y,12698.44,Minor
+Capital/Adirond,Albany,18 to 29,120,M,White,Not Span/Hispanic,9.0,Urgent,Home or Self Care,2021,INJ042,RHB002,860,23,1,Minor,Medical,"Managed Care, Unspecified",N,45301.51,Minor
+Long Island,Suffolk,50 to 69,117,F,White,Unknown,1.0,Emergency,Home or Self Care,2021,CIR007,IMG008,199,5,1,Minor,Medical,"Managed Care, Unspecified",Y,22721.28,Minor
+Long Island,Suffolk,30 to 49,117,F,White,Not Span/Hispanic,4.0,Urgent,Home or Self Care,2021,PRG022,PGN003,540,14,1,Minor,Surgical,Medicaid,N,36507.84,Minor
+Finger Lakes,Monroe,30 to 49,146,F,White,Not Span/Hispanic,2.0,Urgent,Home or Self Care,2021,PRG023,PGN002,560,14,1,Minor,Medical,Medicaid,N,9406.41,Minor
+New York City,Bronx,50 to 69,104,F,Other Race,Spanish/Hispanic,1.0,Emergency,Home or Self Care,2021,END003,NO_PROCEDURE,420,10,1,Moderate,Medical,Medicaid,Y,16441.61,Minor
+Long Island,Nassau,0 to 17,113,F,Other Race,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,1,Minor,Medical,Medicaid,N,15303.28,Minor
+Central NY,Oneida,30 to 49,135,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,MBD003,NO_PROCEDURE,753,19,1,Minor,Medical,Medicaid,Y,13404.54,Minor
+Central NY,Onondaga,30 to 49,134,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INJ005,MST011,313,8,1,Minor,Surgical,Medicaid,Y,128778.71,Minor
+New York City,Richmond,30 to 49,103,F,Other Race,Spanish/Hispanic,1.0,Elective,Home or Self Care,2021,END009,GIS010,403,10,1,Minor,Surgical,Medicaid,N,25618.05,Minor
+Hudson Valley,Orange,0 to 17,109,M,Other Race,Spanish/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,1,Minor,Medical,Medicaid,N,6721.07,Minor
+Western NY,Wyoming,30 to 49,140,F,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,MBD003,NO_PROCEDURE,753,19,1,Minor,Medical,Medicaid,Y,6809.23,Minor
+New York City,Manhattan,0 to 17,112,M,White,Not Span/Hispanic,4.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,633,15,1,Minor,Medical,Medicaid,N,46957.2,Minor
+New York City,Bronx,0 to 17,104,M,Other Race,Unknown,1.0,Emergency,Home or Self Care,2021,RSP009,ADM021,141,4,1,Minor,Medical,Medicaid,Y,17645.09,Minor
+Hudson Valley,Westchester,30 to 49,105,M,Other Race,Spanish/Hispanic,2.0,Emergency,Home or Self Care,2021,GEN006,URN004,446,11,1,Minor,Surgical,Medicaid,Y,36395.02,Minor
+New York City,Richmond,30 to 49,103,F,Other Race,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,PRG024,MST021,560,14,1,Minor,Medical,Medicaid,N,9544.8,Minor
+Hudson Valley,Westchester,50 to 69,105,M,White,Not Span/Hispanic,8.0,Emergency,Skilled Nursing Home,2021,INF007,NO_PROCEDURE,280,7,1,Minor,Medical,Medicaid,Y,46565.5,Minor
+Long Island,Suffolk,0 to 17,117,M,White,Spanish/Hispanic,5.0,Emergency,Home w/ Home Health Services,2021,INJ037,CNS014,22,1,1,Minor,Surgical,Medicaid,Y,98447.43,Minor
+Hudson Valley,Rockland,50 to 69,OOS,F,Black/African American,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG020,GIS004,282,7,1,Minor,Medical,Medicaid,Y,38752.28,Minor
+Long Island,Nassau,18 to 29,115,F,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,PRG020,NO_PROCEDURE,561,14,1,Minor,Medical,Medicaid,Y,33808.41,Minor
+New York City,Kings,50 to 69,112,M,White,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,DIG022,ADM015,249,6,1,Minor,Medical,Medicaid,Y,12491.7,Minor
+New York City,Kings,18 to 29,112,F,White,Not Span/Hispanic,9.0,Urgent,Home or Self Care,2021,MBD002,MHT002,751,19,1,Minor,Medical,Medicaid,N,28699.88,Minor
+Long Island,Suffolk,30 to 49,117,F,Other Race,Spanish/Hispanic,3.0,Elective,Home or Self Care,2021,PRG024,ADM008,560,14,1,Minor,Medical,Medicaid,N,31275.0,Minor
+Capital/Adirond,Saratoga,30 to 49,128,F,White,Unknown,1.0,Emergency,Home or Self Care,2021,DIG011,NO_PROCEDURE,245,6,1,Minor,Medical,Medicaid,Y,17523.8,Minor
+Long Island,Suffolk,18 to 29,119,M,White,Spanish/Hispanic,5.0,Urgent,Home or Self Care,2021,MBD002,MHT002,754,19,1,Minor,Medical,Medicaid,N,27442.7,Minor
+New York City,Manhattan,0 to 17,100,M,Black/African American,Not Span/Hispanic,2.0,Urgent,Psychiatric Hospital or Unit of Hosp,2021,END015,ADM021,424,10,1,Minor,Medical,Medicaid,N,17038.18,Minor
+Capital/Adirond,Otsego,30 to 49,138,F,White,Not Span/Hispanic,3.0,Elective,Home or Self Care,2021,PRG029,PGN002,560,14,1,Minor,Medical,Medicaid,N,9342.5,Minor
+New York City,Kings,30 to 49,113,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,PRG027,NO_PROCEDURE,561,14,1,Minor,Medical,Medicaid,Y,16851.9,Minor
+Central NY,Onondaga,70 or Older,130,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,RSP002,NO_PROCEDURE,139,4,1,Moderate,Medical,Medicare,Y,12347.05,Minor
+Capital/Adirond,Albany,70 or Older,123,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,NEO020,LYM001,229,6,1,Minor,Surgical,Medicare,N,29274.7,Minor
+New York City,Manhattan,50 to 69,100,M,Other Race,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,CIR009,CAR004,174,5,1,Minor,Surgical,Medicare,Y,32883.32,Minor
+New York City,Bronx,70 or Older,112,F,Other Race,Unknown,1.0,Elective,Expired,2021,NEO057,NO_PROCEDURE,691,17,1,Moderate,Medical,Medicare,N,2246.8,Minor
+Southern Tier,Broome,70 or Older,139,F,White,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,DIG022,NO_PROCEDURE,249,6,1,Minor,Medical,Medicare,Y,11165.2,Minor
+Western NY,Erie,70 or Older,142,F,Black/African American,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,DIG012,NO_PROCEDURE,247,6,1,Minor,Medical,Medicare,Y,24214.23,Minor
+Central NY,Jefferson,70 or Older,136,F,White,Not Span/Hispanic,3.0,Emergency,Skilled Nursing Home,2021,MUS014,NO_PROCEDURE,342,8,1,Moderate,Medical,Medicare,Y,12526.32,Minor
+New York City,Manhattan,50 to 69,127,F,White,Not Span/Hispanic,5.0,Elective,Home or Self Care,2021,INJ033,CAR004,175,5,1,Moderate,Surgical,Medicare,N,120834.62,Minor
+Western NY,Erie,70 or Older,142,F,White,Spanish/Hispanic,2.0,Urgent,Home or Self Care,2021,CIR009,NO_PROCEDURE,190,5,1,Minor,Medical,Medicare,Y,16940.67,Minor
+Hudson Valley,Rockland,70 or Older,109,M,White,Not Span/Hispanic,2.0,Elective,Home w/ Home Health Services,2021,MUS006,MST006,326,8,1,Moderate,Surgical,Medicare,N,132422.23,Minor
+New York City,Bronx,70 or Older,104,F,Other Race,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,CIR011,CAR004,175,5,1,Minor,Surgical,Medicare,N,71120.25,Minor
+New York City,Manhattan,50 to 69,112,M,Other Race,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,CIR011,CAR004,175,5,1,Minor,Surgical,Medicare,N,66126.26,Minor
+New York City,Bronx,50 to 69,104,M,Other Race,Unknown,4.0,Elective,Inpatient Rehabilitation Facility,2021,MBD020,SUD003,772,20,1,Minor,Medical,Medicare,N,6237.6,Minor
+New York City,Kings,70 or Older,112,F,Other Race,Not Span/Hispanic,2.0,Emergency,Home w/ Home Health Services,2021,NVS012,IMG006,47,1,1,Minor,Medical,Medicare,Y,14261.04,Minor
+New York City,Bronx,70 or Older,104,M,Black/African American,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,SYM006,ADM017,251,6,1,Minor,Medical,Medicare,Y,50191.77,Minor
+Hudson Valley,Westchester,70 or Older,117,M,White,Unknown,7.0,Elective,Short-term Hospital,2021,MUS006,NO_PROCEDURE,351,8,1,Minor,Medical,Medicare,N,21792.29,Minor
+New York City,Manhattan,50 to 69,105,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,MUS009,MST008,322,8,1,Minor,Surgical,Medicare,N,78278.0,Minor
+New York City,Manhattan,70 or Older,Unknown_ZIP,F,White,Spanish/Hispanic,1.0,Elective,Home or Self Care,2021,GEN020,FRS015,514,13,1,Minor,Surgical,Medicare,N,24372.94,Minor
+Hudson Valley,Westchester,70 or Older,109,F,White,Not Span/Hispanic,6.0,Elective,Home w/ Home Health Services,2021,MUS011,MST013,321,8,1,Minor,Surgical,Medicare,N,222649.53,Minor
+New York City,Richmond,50 to 69,103,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,CIR011,MAM005,191,5,1,Minor,Medical,Medicare,N,37758.39,Minor
+Capital/Adirond,Schenectady,70 or Older,123,F,White,Not Span/Hispanic,3.0,Emergency,Skilled Nursing Home,2021,INJ006,MST010,308,8,1,Moderate,Surgical,Medicare,N,41824.61,Minor
+Hudson Valley,Sullivan,70 or Older,127,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,INJ005,MST011,313,8,1,Minor,Surgical,Medicare,Y,52111.26,Minor
+Southern Tier,Broome,50 to 69,137,M,White,Not Span/Hispanic,2.0,Trauma,Home or Self Care,2021,INJ003,ADM010,135,4,1,Minor,Medical,Medicare,Y,26696.5,Minor
+Long Island,Nassau,70 or Older,115,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,CIR012,MAM005,192,5,1,Minor,Medical,Medicare,Y,66796.24,Minor
+Hudson Valley,Dutchess,70 or Older,125,F,White,Not Span/Hispanic,4.0,Elective,Home or Self Care,2021,MUS006,MST007,324,8,1,Minor,Surgical,Medicare,N,25819.46,Minor
+New York City,Queens,50 to 69,113,F,Other Race,Not Span/Hispanic,7.0,Emergency,Home w/ Home Health Services,2021,INJ005,NO_PROCEDURE,342,8,1,Minor,Medical,Miscellaneous/Other,Y,46160.77,Minor
+Long Island,Suffolk,50 to 69,117,M,Other Race,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,MUS011,MST013,321,8,1,Minor,Surgical,Miscellaneous/Other,N,86500.66,Minor
+Long Island,Nassau,30 to 49,118,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,INJ007,MST013,321,8,1,Minor,Surgical,Miscellaneous/Other,N,61063.57,Minor
+New York City,Kings,30 to 49,Unknown_ZIP,M,Other Race,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,INJ011,SKB006,384,9,1,Minor,Medical,Miscellaneous/Other,Y,14197.89,Minor
+New York City,Bronx,50 to 69,104,M,Other Race,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,INJ008,NO_PROCEDURE,55,1,1,Minor,Medical,Miscellaneous/Other,Y,67255.33,Minor
+New York City,Kings,50 to 69,112,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,CIR033,NO_PROCEDURE,197,5,1,Minor,Medical,Miscellaneous/Other,Y,6586.49,Minor
+New York City,Manhattan,50 to 69,103,F,White,Not Span/Hispanic,2.0,Elective,Home w/ Home Health Services,2021,MUS006,MST006,326,8,1,Minor,Surgical,Miscellaneous/Other,N,123856.22,Minor
+Long Island,Nassau,50 to 69,117,F,Other Race,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,INJ007,MST013,304,8,1,Minor,Surgical,Miscellaneous/Other,N,124010.18,Minor
+New York City,Kings,50 to 69,100,M,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,MUS011,MST013,304,8,1,Minor,Surgical,Miscellaneous/Other,N,228198.94,Minor
+Central NY,Onondaga,50 to 69,131,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,INJ035,MST006,325,8,1,Minor,Surgical,Miscellaneous/Other,N,27947.54,Minor
+Central NY,Onondaga,0 to 17,130,M,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INJ004,NO_PROCEDURE,342,8,1,Minor,Medical,Miscellaneous/Other,Y,18880.81,Minor
+Hudson Valley,Dutchess,30 to 49,125,M,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INJ003,NO_PROCEDURE,135,4,1,Minor,Medical,Miscellaneous/Other,Y,20524.38,Minor
+Hudson Valley,Rockland,50 to 69,109,F,White,Unknown,15.0,Elective,Home w/ Home Health Services,2021,INJ041,NO_PROCEDURE,862,23,1,Minor,Medical,Miscellaneous/Other,N,70348.9,Minor
+Long Island,Nassau,0 to 17,117,F,White,Spanish/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Miscellaneous/Other,N,15503.54,Minor
+Long Island,Nassau,18 to 29,112,M,Other Race,Unknown,1.0,Elective,Home or Self Care,2021,MUS011,MST016,321,8,1,Minor,Surgical,Miscellaneous/Other,N,31566.57,Minor
+Central NY,Madison,70 or Older,138,M,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,MUS006,NO_PROCEDURE,351,8,1,Minor,Medical,Miscellaneous/Other,N,8203.43,Minor
+New York City,Manhattan,30 to 49,113,M,Other Race,Not Span/Hispanic,2.0,Elective,Home w/ Home Health Services,2021,MUS011,MST013,304,8,1,Minor,Surgical,Miscellaneous/Other,N,304169.2,Minor
+New York City,Queens,0 to 17,115,M,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INJ010,NO_PROCEDURE,254,6,1,Minor,Medical,Miscellaneous/Other,Y,30341.28,Minor
+Central NY,Tompkins,50 to 69,148,M,White,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,MBD017,NO_PROCEDURE,770,20,1,Minor,Medical,Miscellaneous/Other,Y,3289.37,Minor
+Southern Tier,Chenango,50 to 69,138,F,White,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,DIG012,NO_PROCEDURE,247,6,1,Minor,Medical,Miscellaneous/Other,Y,9238.6,Minor
+Long Island,Nassau,50 to 69,100,M,Other Race,Spanish/Hispanic,2.0,Elective,Home or Self Care,2021,INJ007,MST013,304,8,1,Minor,Surgical,Miscellaneous/Other,N,128616.81,Minor
+Finger Lakes,Monroe,70 or Older,145,F,White,Not Span/Hispanic,2.0,Elective,Skilled Nursing Home,2021,INJ035,MST006,325,8,1,Minor,Surgical,Miscellaneous/Other,N,20410.0,Minor
+Long Island,Suffolk,50 to 69,117,M,Other Race,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,MUS038,NO_PROCEDURE,347,8,1,Minor,Medical,Miscellaneous/Other,Y,50147.0,Minor
+Long Island,Nassau,30 to 49,117,M,White,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,INJ008,ADM021,26,1,1,Minor,Surgical,Miscellaneous/Other,N,25521.73,Minor
+Hudson Valley,Westchester,50 to 69,109,F,Other Race,Not Span/Hispanic,3.0,Elective,Home or Self Care,2021,MUS011,MST013,304,8,1,Minor,Surgical,Miscellaneous/Other,N,167202.0,Minor
+New York City,Manhattan,0 to 17,104,F,Black/African American,Spanish/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,1,Minor,Medical,Private Health Insurance,N,15705.97,Minor
+Finger Lakes,Monroe,18 to 29,145,F,White,Not Span/Hispanic,2.0,Urgent,Home or Self Care,2021,PRG023,PGN002,560,14,1,Minor,Medical,Private Health Insurance,N,6564.87,Minor
+Long Island,Nassau,18 to 29,114,F,Black/African American,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,END009,GIS010,403,10,1,Minor,Surgical,Private Health Insurance,N,44278.48,Minor
+Long Island,Suffolk,30 to 49,117,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,PRG016,PGN003,540,14,1,Minor,Surgical,Private Health Insurance,N,31763.96,Minor
+New York City,Manhattan,30 to 49,104,F,Black/African American,Unknown,3.0,Emergency,Home or Self Care,2021,PRG023,PGN002,560,14,1,Minor,Medical,Private Health Insurance,Y,42233.65,Minor
+Hudson Valley,Westchester,18 to 29,105,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,MBD002,NO_PROCEDURE,754,19,1,Minor,Medical,Private Health Insurance,Y,16991.0,Minor
+New York City,Richmond,0 to 17,103,F,Other Race,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,MBD002,MHT002,754,19,1,Minor,Medical,Private Health Insurance,Y,10559.0,Minor
+Hudson Valley,Westchester,50 to 69,105,F,Black/African American,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG022,ADM015,249,6,1,Minor,Medical,Private Health Insurance,Y,39004.38,Minor
+Hudson Valley,Orange,50 to 69,125,F,White,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,END009,GIS010,403,10,1,Minor,Surgical,Private Health Insurance,N,77156.53,Minor
+Central NY,Onondaga,30 to 49,130,M,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,SKN001,SKB002,383,9,1,Minor,Medical,Private Health Insurance,Y,32688.51,Minor
+New York City,Kings,30 to 49,112,F,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,PRG023,PGN003,540,14,1,Minor,Surgical,Private Health Insurance,Y,40586.09,Minor
+New York City,Manhattan,0 to 17,100,M,White,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,1,Minor,Medical,Private Health Insurance,N,15636.38,Minor
+New York City,Queens,50 to 69,114,F,Black/African American,Unknown,1.0,Emergency,Home or Self Care,2021,INJ031,ADM021,811,21,1,Minor,Medical,Private Health Insurance,Y,11449.01,Minor
+Hudson Valley,Westchester,50 to 69,106,F,Other Race,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,CIR008,NO_PROCEDURE,199,5,1,Minor,Medical,Private Health Insurance,Y,43591.4,Minor
+Finger Lakes,Monroe,30 to 49,146,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,END009,GIS019,403,10,1,Minor,Surgical,Private Health Insurance,N,22850.07,Minor
+New York City,Manhattan,0 to 17,114,F,Other Race,Unknown,1.0,Emergency,Home or Self Care,2021,MBD002,ADM021,754,19,1,Minor,Medical,Private Health Insurance,Y,5591.17,Minor
+New York City,Manhattan,30 to 49,100,F,White,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,PRG026,PGN002,560,14,1,Minor,Medical,Private Health Insurance,N,16482.47,Minor
+Long Island,Nassau,30 to 49,110,F,Other Race,Spanish/Hispanic,2.0,Elective,Home or Self Care,2021,PRG016,PGN003,539,14,1,Minor,Surgical,Private Health Insurance,N,53788.29,Minor
+Long Island,Nassau,0 to 17,115,M,White,Not Span/Hispanic,1.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Private Health Insurance,N,8064.38,Minor
+Finger Lakes,Monroe,50 to 69,120,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,INJ005,MST014,342,8,1,Minor,Medical,Private Health Insurance,Y,23846.06,Minor
+New York City,Manhattan,30 to 49,OOS,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,PRG016,PGN003,540,14,1,Minor,Surgical,Private Health Insurance,Y,39075.26,Minor
+Central NY,Onondaga,0 to 17,134,M,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,RSP005,NO_PROCEDURE,138,4,1,Minor,Medical,Private Health Insurance,Y,34553.8,Minor
+Long Island,Suffolk,18 to 29,117,F,White,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,MBD003,NO_PROCEDURE,753,19,1,Minor,Medical,Private Health Insurance,Y,20040.45,Minor
+Hudson Valley,Westchester,50 to 69,Unknown_ZIP,F,Black/African American,Not Span/Hispanic,7.0,Elective,Home or Self Care,2021,FAC010,NO_PROCEDURE,862,23,1,Minor,Medical,Private Health Insurance,N,21912.9,Minor
+Hudson Valley,Westchester,0 to 17,105,M,Other Race,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,SYM014,NO_PROCEDURE,207,5,1,Minor,Medical,Private Health Insurance,Y,26701.0,Minor
+Central NY,Onondaga,0 to 17,130,F,Other Race,Unknown,1.0,Newborn,Home or Self Care,2021,PNL001,ENT004,640,15,1,Minor,Medical,Self-Pay,N,3731.51,Minor
+Capital/Adirond,Otsego,0 to 17,121,M,White,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,1,Minor,Medical,Self-Pay,N,1294.69,Minor
+New York City,Manhattan,18 to 29,109,F,White,Unknown,1.0,Emergency,Home or Self Care,2021,DIG017,HEP007,284,7,1,Minor,Medical,Self-Pay,Y,28903.78,Minor
+New York City,Manhattan,0 to 17,107,M,White,Not Span/Hispanic,4.0,Newborn,Home or Self Care,2021,PNL001,ENT004,640,15,1,Minor,Medical,Self-Pay,N,29734.36,Minor
+Capital/Adirond,Albany,30 to 49,OOS,M,White,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,DIG020,NO_PROCEDURE,282,7,1,Minor,Medical,Self-Pay,Y,10298.95,Minor
+Hudson Valley,Sullivan,0 to 17,127,F,Other Race,Unknown,1.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Self-Pay,N,3102.19,Minor
+Western NY,Erie,0 to 17,140,M,White,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,1,Minor,Medical,Self-Pay,N,8335.5,Minor
+New York City,Queens,50 to 69,113,F,Other Race,Spanish/Hispanic,1.0,Elective,Home or Self Care,2021,MUS011,CNS008,304,8,1,Minor,Surgical,Self-Pay,N,45956.95,Minor
+New York City,Manhattan,30 to 49,104,F,Black/African American,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,END009,GIS010,403,10,1,Minor,Surgical,Self-Pay,N,31172.18,Minor
+Capital/Adirond,Albany,30 to 49,125,M,White,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,MBD017,SUD001,770,20,1,Minor,Medical,Self-Pay,Y,4888.6,Minor
+Central NY,Onondaga,0 to 17,130,F,Other Race,Unknown,2.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,1,Minor,Medical,Self-Pay,N,7491.2,Minor
+Capital/Adirond,Albany,0 to 17,120,F,White,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,1,Minor,Medical,Self-Pay,N,3474.25,Minor
+Capital/Adirond,Otsego,0 to 17,121,F,White,Not Span/Hispanic,1.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Self-Pay,N,823.16,Minor
+Southern Tier,Broome,30 to 49,138,M,White,Not Span/Hispanic,9.0,Emergency,Home or Self Care,2021,MBD002,NO_PROCEDURE,754,19,1,Minor,Medical,Self-Pay,Y,16294.3,Minor
+New York City,Manhattan,0 to 17,100,F,Other Race,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,EST002,640,15,1,Minor,Medical,Self-Pay,N,18190.0,Minor
+Southern Tier,Chenango,18 to 29,133,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,PRG029,PGN002,560,14,1,Minor,Medical,Self-Pay,N,9347.4,Minor
+Long Island,Suffolk,18 to 29,117,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,DIG009,GIS008,234,6,1,Minor,Surgical,Self-Pay,Y,39912.76,Minor
+New York City,Kings,0 to 17,112,M,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,DIG009,GIS008,234,6,1,Minor,Surgical,Self-Pay,Y,31917.24,Minor
+Hudson Valley,Rockland,0 to 17,109,F,Other Race,Not Span/Hispanic,3.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Self-Pay,N,10164.84,Minor
+Finger Lakes,Monroe,30 to 49,146,F,White,Not Span/Hispanic,13.0,Elective,Home or Self Care,2021,MBD021,SUD004,772,20,1,Minor,Medical,Self-Pay,N,19349.09,Minor
+New York City,Manhattan,50 to 69,100,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,RSP008,NO_PROCEDURE,140,4,1,Moderate,Medical,Self-Pay,Y,23680.17,Minor
+Hudson Valley,Orange,50 to 69,109,M,White,Not Span/Hispanic,1.0,Urgent,Psychiatric Hospital or Unit of Hosp,2021,MBD012,NO_PROCEDURE,817,21,1,Minor,Medical,Self-Pay,Y,21413.37,Minor
+New York City,Queens,0 to 17,115,F,Black/African American,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,1,Minor,Medical,Self-Pay,N,16268.38,Minor
+Long Island,Nassau,0 to 17,113,M,White,Not Span/Hispanic,3.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,1,Minor,Medical,Self-Pay,N,11362.0,Minor
+Central NY,Cayuga,70 or Older,130,M,White,Not Span/Hispanic,5.0,Emergency,Skilled Nursing Home,2021,INJ006,MST007,323,8,1,Minor,Surgical,Self-Pay,Y,41447.01,Minor
+Long Island,Nassau,30 to 49,115,F,White,Not Span/Hispanic,3.0,Elective,Home or Self Care,2021,PRG019,PGN003,540,14,2,Minor,Surgical,Blue Cross/Blue Shield,N,61569.29,Moderate
+New York City,Kings,50 to 69,114,F,Black/African American,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,END003,IMG006,48,1,2,Moderate,Medical,Blue Cross/Blue Shield,N,15619.17,Moderate
+Long Island,Suffolk,50 to 69,117,F,White,Not Span/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,DIG009,GIS008,233,6,2,Minor,Surgical,Blue Cross/Blue Shield,Y,88058.19,Moderate
+Hudson Valley,Putnam,30 to 49,105,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,DIG013,NO_PROCEDURE,244,6,2,Minor,Medical,Blue Cross/Blue Shield,Y,22864.97,Moderate
+Western NY,Erie,30 to 49,142,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,SKN001,NO_PROCEDURE,383,9,2,Minor,Medical,Blue Cross/Blue Shield,Y,11528.63,Moderate
+New York City,Manhattan,50 to 69,100,F,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,SYM006,ADM015,251,6,2,Moderate,Medical,Blue Cross/Blue Shield,N,16928.09,Moderate
+Hudson Valley,Westchester,30 to 49,105,F,Black/African American,Multi-ethnic,4.0,Emergency,Home or Self Care,2021,DIG007,GIS001,241,6,2,Minor,Medical,Blue Cross/Blue Shield,Y,43613.04,Moderate
+Finger Lakes,Ontario,50 to 69,144,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,NVS012,NO_PROCEDURE,47,1,2,Minor,Medical,Blue Cross/Blue Shield,Y,9855.83,Moderate
+New York City,Kings,18 to 29,112,M,Other Race,Spanish/Hispanic,3.0,Trauma,Home w/ Home Health Services,2021,SKN001,OTR004,383,9,2,Minor,Medical,Blue Cross/Blue Shield,Y,84974.15,Moderate
+Western NY,Chautauqua,0 to 17,OOS,M,White,Not Span/Hispanic,1.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,2,Minor,Medical,Blue Cross/Blue Shield,N,2963.5,Moderate
+New York City,Manhattan,70 or Older,122,F,Black/African American,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,DIG025,NO_PROCEDURE,254,6,2,Minor,Medical,Blue Cross/Blue Shield,Y,24972.85,Moderate
+New York City,Manhattan,30 to 49,104,F,Multi-racial,Not Span/Hispanic,3.0,Elective,Home w/ Home Health Services,2021,CIR017,CAR002,175,5,2,Minor,Surgical,Blue Cross/Blue Shield,N,134830.79,Moderate
+Capital/Adirond,Albany,50 to 69,123,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,DIG010,NO_PROCEDURE,254,6,2,Minor,Medical,Blue Cross/Blue Shield,Y,9795.6,Moderate
+New York City,Queens,30 to 49,111,M,Other Race,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,GEN004,ADM021,463,11,2,Minor,Medical,Blue Cross/Blue Shield,Y,16036.73,Moderate
+New York City,Manhattan,30 to 49,100,M,Other Race,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,NVS009,MAM011,53,1,2,Moderate,Medical,Blue Cross/Blue Shield,Y,155987.5,Moderate
+Finger Lakes,Monroe,0 to 17,145,F,White,Not Span/Hispanic,3.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,2,Minor,Medical,Blue Cross/Blue Shield,N,23654.02,Moderate
+Western NY,Erie,18 to 29,140,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,PRG023,PGN002,560,14,2,Minor,Medical,Blue Cross/Blue Shield,Y,10474.12,Moderate
+Capital/Adirond,Albany,18 to 29,121,F,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,PRG022,PGN003,540,14,2,Minor,Surgical,Blue Cross/Blue Shield,N,31221.71,Moderate
+Capital/Adirond,Albany,0 to 17,Unknown_ZIP,F,Other Race,Not Span/Hispanic,1.0,Emergency,Short-term Hospital,2021,DIG010,ESA003,254,6,2,Minor,Medical,Blue Cross/Blue Shield,Y,20451.39,Moderate
+New York City,Manhattan,30 to 49,100,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,PRG024,PGN003,540,14,2,Minor,Surgical,Blue Cross/Blue Shield,N,47573.02,Moderate
+Central NY,Onondaga,0 to 17,133,M,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,RSP006,CNS002,113,3,2,Moderate,Medical,Blue Cross/Blue Shield,Y,43544.01,Moderate
+Finger Lakes,Wayne,50 to 69,145,M,White,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,CIR017,NO_PROCEDURE,201,5,2,Minor,Medical,Blue Cross/Blue Shield,Y,27485.67,Moderate
+Southern Tier,Broome,50 to 69,139,M,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,DIG011,GIS018,231,6,2,Minor,Surgical,Blue Cross/Blue Shield,Y,82964.48,Moderate
+Southern Tier,Broome,18 to 29,OOS,M,White,Not Span/Hispanic,2.0,Emergency,Short-term Hospital,2021,INF002,CNS002,720,18,2,Moderate,Medical,Blue Cross/Blue Shield,Y,26989.98,Moderate
+Long Island,Suffolk,30 to 49,117,F,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,PRG013,PGN002,560,14,2,Minor,Medical,Blue Cross/Blue Shield,Y,33838.67,Moderate
+Central NY,Onondaga,70 or Older,134,M,White,Not Span/Hispanic,5.0,Emergency,Court/Law Enforcement,2021,RSP002,ADM001,137,4,2,Major,Medical,Department of Corrections,Y,58951.3,Moderate
+Western NY,Wyoming,50 to 69,145,M,White,Not Span/Hispanic,1.0,Emergency,Court/Law Enforcement,2021,GEN002,NO_PROCEDURE,469,11,2,Minor,Medical,Department of Corrections,Y,4580.62,Moderate
+Central NY,Onondaga,50 to 69,Unknown_ZIP,M,Other Race,Not Span/Hispanic,5.0,Emergency,Court/Law Enforcement,2021,INJ037,GNR008,711,18,2,Minor,Surgical,Department of Corrections,Y,64699.81,Moderate
+New York City,Kings,50 to 69,112,M,White,Unknown,8.0,Emergency,Short-term Hospital,2021,CIR011,NO_PROCEDURE,198,5,2,Moderate,Medical,Department of Corrections,Y,99277.3,Moderate
+Capital/Adirond,Albany,30 to 49,129,M,White,Not Span/Hispanic,13.0,Emergency,Court/Law Enforcement,2021,RSP012,NO_PROCEDURE,133,4,2,Minor,Medical,Department of Corrections,Y,49739.27,Moderate
+Finger Lakes,Chemung,50 to 69,148,M,Black/African American,Not Span/Hispanic,5.0,Emergency,Court/Law Enforcement,2021,CIR019,NO_PROCEDURE,194,5,2,Moderate,Medical,Department of Corrections,Y,18308.26,Moderate
+Capital/Adirond,Albany,50 to 69,125,M,Black/African American,Not Span/Hispanic,6.0,Urgent,Court/Law Enforcement,2021,INF008,NO_PROCEDURE,383,9,2,Moderate,Medical,Department of Corrections,N,28516.35,Moderate
+Capital/Adirond,Albany,70 or Older,127,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Court/Law Enforcement,2021,INJ037,NO_PROCEDURE,721,18,2,Moderate,Medical,Department of Corrections,Y,12758.5,Moderate
+Hudson Valley,Westchester,50 to 69,105,M,Black/African American,Not Span/Hispanic,5.0,Emergency,Court/Law Enforcement,2021,CIR019,NO_PROCEDURE,194,5,2,Minor,Medical,Department of Corrections,Y,123570.0,Moderate
+Hudson Valley,Orange,30 to 49,125,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,PRG023,PGN002,560,14,2,Minor,Medical,Federal/State/Local/VA,N,14601.55,Moderate
+Long Island,Nassau,50 to 69,117,M,White,Not Span/Hispanic,5.0,Emergency,Short-term Hospital,2021,CIR019,MAM005,192,5,2,Minor,Medical,Federal/State/Local/VA,N,52651.93,Moderate
+Central NY,Onondaga,70 or Older,130,M,White,Not Span/Hispanic,3.0,Emergency,Home w/ Home Health Services,2021,GEN002,ADM017,469,11,2,Minor,Medical,Federal/State/Local/VA,Y,12816.25,Moderate
+Finger Lakes,Steuben,70 or Older,148,M,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,CIR017,NO_PROCEDURE,201,5,2,Major,Medical,Federal/State/Local/VA,Y,33228.5,Moderate
+Central NY,Oneida,70 or Older,135,M,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,SYM016,NO_PROCEDURE,421,10,2,Major,Medical,Federal/State/Local/VA,Y,11120.43,Moderate
+Finger Lakes,Monroe,70 or Older,144,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,END003,MAM010,420,10,2,Major,Medical,Federal/State/Local/VA,Y,18641.18,Moderate
+Central NY,Onondaga,50 to 69,136,M,White,Not Span/Hispanic,3.0,Elective,Home or Self Care,2021,MUS011,PNS002,320,8,2,Minor,Surgical,Federal/State/Local/VA,N,71600.5,Moderate
+Finger Lakes,Monroe,50 to 69,145,M,White,Not Span/Hispanic,7.0,Emergency,Skilled Nursing Home,2021,MUS011,MST013,321,8,2,Moderate,Surgical,Federal/State/Local/VA,Y,62386.62,Moderate
+Capital/Adirond,Albany,50 to 69,120,M,White,Not Span/Hispanic,9.0,Emergency,Home or Self Care,2021,CIR020,CAR006,30,1,2,Moderate,Surgical,Federal/State/Local/VA,Y,148869.19,Moderate
+Finger Lakes,Monroe,70 or Older,145,M,White,Not Span/Hispanic,7.0,Emergency,Home w/ Home Health Services,2021,CIR017,MAM005,192,5,2,Major,Medical,Federal/State/Local/VA,Y,34398.05,Moderate
+Capital/Adirond,Albany,70 or Older,121,M,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,CIR021,MST001,44,1,2,Major,Medical,Federal/State/Local/VA,Y,25408.36,Moderate
+Hudson Valley,Orange,18 to 29,109,F,White,Not Span/Hispanic,3.0,Elective,Home or Self Care,2021,PRG013,PGN002,560,14,2,Minor,Medical,Federal/State/Local/VA,N,36308.03,Moderate
+New York City,Richmond,0 to 17,112,M,Other Race,Spanish/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,2,Minor,Medical,Federal/State/Local/VA,N,9424.33,Moderate
+Hudson Valley,Westchester,50 to 69,105,F,Black/African American,Not Span/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,DIG013,GIS004,244,6,2,Minor,Medical,Federal/State/Local/VA,Y,35740.49,Moderate
+Capital/Adirond,Warren,50 to 69,128,M,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,DIG020,NO_PROCEDURE,282,7,2,Minor,Medical,Federal/State/Local/VA,Y,15789.44,Moderate
+Central NY,Jefferson,18 to 29,136,M,White,Not Span/Hispanic,8.0,Emergency,Home or Self Care,2021,MBD002,NO_PROCEDURE,751,19,2,Minor,Medical,Federal/State/Local/VA,Y,20155.95,Moderate
+Central NY,Onondaga,30 to 49,130,F,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,PRG011,PGN002,560,14,2,Minor,Medical,Federal/State/Local/VA,N,12313.92,Moderate
+Hudson Valley,Westchester,50 to 69,105,M,White,Not Span/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,NEO070,CAR025,281,7,2,Moderate,Medical,Federal/State/Local/VA,Y,49017.43,Moderate
+Capital/Adirond,Otsego,70 or Older,138,M,White,Not Span/Hispanic,2.0,Emergency,Short-term Hospital,2021,INF002,NO_PROCEDURE,720,18,2,Major,Medical,Federal/State/Local/VA,Y,15125.21,Moderate
+New York City,Kings,30 to 49,112,M,White,Unknown,13.0,Emergency,Home or Self Care,2021,MBD001,NO_PROCEDURE,751,19,2,Minor,Medical,Federal/State/Local/VA,Y,56015.54,Moderate
+Capital/Adirond,Saratoga,30 to 49,128,F,Other Race,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,SYM004,NO_PROCEDURE,249,6,2,Minor,Medical,Federal/State/Local/VA,Y,38652.0,Moderate
+Central NY,Jefferson,18 to 29,136,M,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,END003,NO_PROCEDURE,420,10,2,Moderate,Medical,Federal/State/Local/VA,N,12114.2,Moderate
+Central NY,St Lawrence,70 or Older,136,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,GEN002,IMG008,469,11,2,Major,Medical,Federal/State/Local/VA,Y,10572.14,Moderate
+Finger Lakes,Monroe,70 or Older,145,M,White,Not Span/Hispanic,8.0,Emergency,Home w/ Home Health Services,2021,INF002,CAR007,710,18,2,Moderate,Surgical,Federal/State/Local/VA,Y,41846.55,Moderate
+Western NY,Erie,0 to 17,142,F,Other Race,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,2,Minor,Medical,Federal/State/Local/VA,N,3239.63,Moderate
+Long Island,Suffolk,18 to 29,115,F,Other Race,Spanish/Hispanic,3.0,Urgent,Home or Self Care,2021,PRG029,PGN002,560,14,2,Minor,Medical,"Managed Care, Unspecified",N,23402.37,Moderate
+Capital/Adirond,Albany,30 to 49,128,M,White,Not Span/Hispanic,8.0,Emergency,Home w/ Home Health Services,2021,INJ033,CAR026,180,5,2,Moderate,Surgical,"Managed Care, Unspecified",Y,81459.68,Moderate
+Long Island,Suffolk,0 to 17,117,M,Other Race,Unknown,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,2,Minor,Medical,"Managed Care, Unspecified",N,11140.38,Moderate
+Long Island,Suffolk,50 to 69,119,F,White,Not Span/Hispanic,2.0,Elective,Home w/ Home Health Services,2021,MUS006,MST007,324,8,2,Minor,Surgical,"Managed Care, Unspecified",N,77324.05,Moderate
+Long Island,Suffolk,50 to 69,117,M,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,MUS037,NO_PROCEDURE,347,8,2,Minor,Medical,"Managed Care, Unspecified",Y,50954.4,Moderate
+Long Island,Nassau,50 to 69,115,M,White,Not Span/Hispanic,2.0,Emergency,Hospice - Home,2021,NEO074,NO_PROCEDURE,861,23,2,Moderate,Medical,"Managed Care, Unspecified",Y,20733.0,Moderate
+Long Island,Nassau,50 to 69,117,M,White,Not Span/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,CIR011,IMG001,166,5,2,Moderate,Surgical,"Managed Care, Unspecified",Y,178261.95,Moderate
+Long Island,Nassau,50 to 69,113,M,Other Race,Spanish/Hispanic,4.0,Emergency,Home or Self Care,2021,GEN013,CAR024,501,12,2,Minor,Medical,"Managed Care, Unspecified",Y,39393.0,Moderate
+Long Island,Suffolk,18 to 29,119,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,SYM004,SUD002,249,6,2,Moderate,Medical,"Managed Care, Unspecified",Y,20775.0,Moderate
+Capital/Adirond,Albany,0 to 17,123,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,NVS009,NO_PROCEDURE,53,1,2,Minor,Medical,"Managed Care, Unspecified",Y,23121.8,Moderate
+Capital/Adirond,Albany,30 to 49,121,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,CIR020,NO_PROCEDURE,45,1,2,Minor,Medical,"Managed Care, Unspecified",Y,45985.37,Moderate
+Capital/Adirond,Albany,30 to 49,124,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,INF002,URN005,720,18,2,Major,Medical,"Managed Care, Unspecified",Y,18120.67,Moderate
+New York City,Kings,50 to 69,112,M,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,MBD017,NO_PROCEDURE,775,20,2,Minor,Medical,"Managed Care, Unspecified",Y,19080.38,Moderate
+Long Island,Suffolk,50 to 69,119,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,MBD017,SUD001,772,20,2,Minor,Medical,"Managed Care, Unspecified",Y,21616.0,Moderate
+Long Island,Suffolk,30 to 49,117,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,NEO030,SKB003,362,9,2,Minor,Surgical,"Managed Care, Unspecified",N,121029.89,Moderate
+Hudson Valley,Dutchess,18 to 29,125,F,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,PRG018,PGN003,540,14,2,Minor,Surgical,"Managed Care, Unspecified",N,25425.57,Moderate
+Long Island,Suffolk,0 to 17,117,M,Other Race,Unknown,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,626,15,2,Minor,Medical,"Managed Care, Unspecified",N,16768.39,Moderate
+Hudson Valley,Dutchess,0 to 17,125,F,White,Unknown,1.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,2,Minor,Medical,"Managed Care, Unspecified",N,1527.46,Moderate
+Capital/Adirond,Albany,50 to 69,128,M,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,MBD017,NO_PROCEDURE,775,20,2,Moderate,Medical,"Managed Care, Unspecified",Y,20099.46,Moderate
+Long Island,Suffolk,30 to 49,117,F,White,Not Span/Hispanic,2.0,Urgent,Home or Self Care,2021,PRG023,PGN002,542,14,2,Minor,Surgical,"Managed Care, Unspecified",N,18178.23,Moderate
+New York City,Manhattan,18 to 29,104,F,Black/African American,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,PRG020,PGN002,560,14,2,Minor,Medical,"Managed Care, Unspecified",N,31881.3,Moderate
+Capital/Adirond,Albany,0 to 17,123,F,Black/African American,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,MBD007,NO_PROCEDURE,756,19,2,Minor,Medical,"Managed Care, Unspecified",Y,8542.0,Moderate
+Hudson Valley,Dutchess,50 to 69,125,M,White,Not Span/Hispanic,4.0,Elective,Home w/ Home Health Services,2021,CIR003,CAR022,163,5,2,Moderate,Surgical,"Managed Care, Unspecified",N,92981.11,Moderate
+New York City,Manhattan,30 to 49,100,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG017,HEP007,284,7,2,Minor,Medical,"Managed Care, Unspecified",Y,38851.38,Moderate
+Western NY,Erie,50 to 69,147,F,White,Not Span/Hispanic,3.0,Elective,Home w/ Home Health Services,2021,NEO048,RAD003,21,1,2,Minor,Surgical,"Managed Care, Unspecified",N,82145.29,Moderate
+Hudson Valley,Westchester,0 to 17,125,F,Black/African American,Not Span/Hispanic,35.0,Newborn,Short-term Hospital,2021,PNL001,EST002,603,15,2,Minor,Medical,Medicaid,N,956768.0,Moderate
+New York City,Manhattan,50 to 69,100,M,Other Race,Unknown,4.0,Urgent,Home or Self Care,2021,MBD017,SUD001,773,20,2,Minor,Medical,Medicaid,N,22863.67,Moderate
+New York City,Manhattan,18 to 29,112,M,Other Race,Unknown,1.0,Emergency,Home or Self Care,2021,INJ005,MST011,313,8,2,Minor,Surgical,Medicaid,Y,37168.67,Moderate
+Long Island,Suffolk,0 to 17,117,F,Black/African American,Not Span/Hispanic,24.0,Newborn,Home or Self Care,2021,PNL001,CAR024,633,15,2,Minor,Medical,Medicaid,N,315588.59,Moderate
+Finger Lakes,Livingston,30 to 49,145,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,PRG022,PGN002,560,14,2,Minor,Medical,Medicaid,N,4124.41,Moderate
+New York City,Bronx,30 to 49,Unknown_ZIP,F,Other Race,Not Span/Hispanic,23.0,Emergency,Home or Self Care,2021,MBD001,MHT002,750,19,2,Minor,Medical,Medicaid,Y,100759.96,Moderate
+New York City,Bronx,50 to 69,Unknown_ZIP,M,Other Race,Spanish/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,INF006,NO_PROCEDURE,894,24,2,Minor,Medical,Medicaid,Y,5933.58,Moderate
+Western NY,Niagara,50 to 69,143,M,Black/African American,Not Span/Hispanic,8.0,Elective,Left Against Medical Advice,2021,MBD021,SUD004,770,20,2,Minor,Medical,Medicaid,N,11234.19,Moderate
+Hudson Valley,Westchester,30 to 49,107,M,Black/African American,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,GEN007,NO_PROCEDURE,468,11,2,Minor,Medical,Medicaid,Y,24246.42,Moderate
+New York City,Kings,70 or Older,112,F,Black/African American,Unknown,6.0,Emergency,Home or Self Care,2021,NVS009,MAM011,53,1,2,Moderate,Medical,Medicaid,Y,50870.71,Moderate
+Capital/Adirond,Montgomery,50 to 69,120,F,White,Unknown,8.0,Urgent,Home or Self Care,2021,MBD002,NO_PROCEDURE,751,19,2,Minor,Medical,Medicaid,N,9241.9,Moderate
+Hudson Valley,Rockland,0 to 17,109,F,White,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,2,Minor,Medical,Medicaid,N,7068.47,Moderate
+New York City,Kings,0 to 17,112,F,Other Race,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,2,Minor,Medical,Medicaid,N,24914.43,Moderate
+New York City,Bronx,50 to 69,100,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,CIR011,NO_PROCEDURE,198,5,2,Moderate,Medical,Medicaid,Y,6432.72,Moderate
+New York City,Kings,50 to 69,112,F,White,Unknown,13.0,Emergency,Home or Self Care,2021,MBD002,MST003,751,19,2,Minor,Medical,Medicaid,Y,53761.19,Moderate
+New York City,Bronx,30 to 49,104,M,Black/African American,Not Span/Hispanic,3.0,Emergency,Left Against Medical Advice,2021,GEN004,ADM015,463,11,2,Minor,Medical,Medicaid,Y,18942.58,Moderate
+Capital/Adirond,Clinton,0 to 17,129,F,White,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,2,Minor,Medical,Medicaid,N,4600.1,Moderate
+New York City,Richmond,18 to 29,103,F,Other Race,Spanish/Hispanic,11.0,Emergency,Home or Self Care,2021,MBD001,MHT002,750,19,2,Minor,Medical,Medicaid,Y,37989.48,Moderate
+New York City,Kings,50 to 69,112,F,Black/African American,Not Span/Hispanic,10.0,Emergency,Home or Self Care,2021,END003,CAR008,182,5,2,Moderate,Surgical,Medicaid,Y,162546.54,Moderate
+Western NY,Erie,50 to 69,142,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,MUS010,NO_PROCEDURE,351,8,2,Minor,Medical,Medicaid,Y,6632.12,Moderate
+Western NY,Erie,30 to 49,143,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,MUS011,MST013,321,8,2,Minor,Surgical,Medicaid,N,52491.25,Moderate
+Capital/Adirond,Warren,18 to 29,128,M,Other Race,Not Span/Hispanic,,Emergency,Home or Self Care,2021,MBD004,NO_PROCEDURE,753,19,2,Minor,Medical,Medicaid,Y,709672.98,Moderate
+New York City,Manhattan,0 to 17,104,M,Other Race,Not Span/Hispanic,7.0,Urgent,Home or Self Care,2021,MBD014,MHT002,758,19,2,Minor,Medical,Medicaid,N,49577.76,Moderate
+New York City,Queens,30 to 49,112,M,Black/African American,Unknown,1.0,Emergency,Home w/ Home Health Services,2021,INJ013,MRS007,483,12,2,Minor,Surgical,Medicaid,Y,24387.09,Moderate
+Southern Tier,Broome,0 to 17,137,M,Other Race,Unknown,1.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,2,Minor,Medical,Medicaid,N,1305.3,Moderate
+Western NY,Erie,70 or Older,142,F,White,Not Span/Hispanic,5.0,Emergency,Home w/ Home Health Services,2021,CIR020,NO_PROCEDURE,45,1,2,Moderate,Medical,Medicare,Y,24112.79,Moderate
+Long Island,Suffolk,70 or Older,117,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INF002,NO_PROCEDURE,720,18,2,Minor,Medical,Medicare,Y,42563.89,Moderate
+Finger Lakes,Steuben,70 or Older,148,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,DIG021,NO_PROCEDURE,253,6,2,Moderate,Medical,Medicare,Y,9953.5,Moderate
+Western NY,Erie,70 or Older,143,F,White,Not Span/Hispanic,2.0,Emergency,Home w/ Home Health Services,2021,CIR031,NO_PROCEDURE,204,5,2,Minor,Medical,Medicare,Y,12287.96,Moderate
+New York City,Manhattan,70 or Older,104,F,Black/African American,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,CIR003,CAR023,183,5,2,Moderate,Surgical,Medicare,N,352928.45,Moderate
+Hudson Valley,Westchester,70 or Older,105,F,White,Not Span/Hispanic,3.0,Emergency,Home w/ Home Health Services,2021,DIG013,NO_PROCEDURE,244,6,2,Moderate,Medical,Medicare,Y,27573.23,Moderate
+New York City,Manhattan,70 or Older,100,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,NVS011,NO_PROCEDURE,42,1,2,Minor,Medical,Medicare,Y,27269.0,Moderate
+New York City,Manhattan,70 or Older,100,F,Other Race,Unknown,2.0,Emergency,Home w/ Home Health Services,2021,GEN002,NO_PROCEDURE,469,11,2,Moderate,Medical,Medicare,Y,23073.7,Moderate
+New York City,Kings,50 to 69,114,M,Black/African American,Not Span/Hispanic,8.0,Emergency,Home w/ Home Health Services,2021,BLD005,ADM001,662,16,2,Moderate,Medical,Medicare,N,79987.15,Moderate
+Capital/Adirond,Albany,50 to 69,121,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG020,NO_PROCEDURE,282,7,2,Moderate,Medical,Medicare,Y,16646.41,Moderate
+Capital/Adirond,Schenectady,50 to 69,123,M,White,Not Span/Hispanic,5.0,Emergency,Inpatient Rehabilitation Facility,2021,DIG021,GIS001,241,6,2,Moderate,Medical,Medicare,N,39929.7,Moderate
+Southern Tier,Broome,70 or Older,137,M,White,Not Span/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,INF002,NO_PROCEDURE,720,18,2,Moderate,Medical,Medicare,Y,15492.47,Moderate
+Southern Tier,Broome,70 or Older,138,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,CIR009,NO_PROCEDURE,190,5,2,Moderate,Medical,Medicare,Y,27702.19,Moderate
+Long Island,Suffolk,50 to 69,117,M,Black/African American,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,MBD017,SUD001,775,20,2,Moderate,Medical,Medicare,Y,44624.0,Moderate
+Hudson Valley,Orange,70 or Older,127,F,White,Not Span/Hispanic,7.0,Emergency,Inpatient Rehabilitation Facility,2021,DIG020,NO_PROCEDURE,282,7,2,Major,Medical,Medicare,Y,61419.24,Moderate
+Long Island,Suffolk,50 to 69,117,M,White,Spanish/Hispanic,4.0,Emergency,Home or Self Care,2021,MBD017,SUD001,775,20,2,Minor,Medical,Medicare,Y,28698.0,Moderate
+Long Island,Nassau,70 or Older,113,F,White,Not Span/Hispanic,3.0,Emergency,Skilled Nursing Home,2021,CIR019,NO_PROCEDURE,194,5,2,Moderate,Medical,Medicare,Y,38069.61,Moderate
+Long Island,Suffolk,70 or Older,117,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,GEN004,NO_PROCEDURE,463,11,2,Major,Medical,Medicare,Y,30386.03,Moderate
+Long Island,Nassau,50 to 69,114,M,Other Race,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,CIR017,NO_PROCEDURE,201,5,2,Major,Medical,Medicare,Y,21868.0,Moderate
+New York City,Bronx,50 to 69,104,M,Black/African American,Not Span/Hispanic,13.0,Emergency,Home or Self Care,2021,MBD001,MHT005,750,19,2,Minor,Medical,Medicare,Y,57035.68,Moderate
+New York City,Queens,50 to 69,114,M,Black/African American,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INF002,ENT001,720,18,2,Moderate,Medical,Medicare,Y,42995.15,Moderate
+Finger Lakes,Monroe,50 to 69,148,F,White,Not Span/Hispanic,7.0,Elective,Home w/ Home Health Services,2021,SYM005,ENT012,229,6,2,Minor,Surgical,Medicare,N,65176.02,Moderate
+Western NY,Niagara,50 to 69,140,F,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,DIG020,CAR024,282,7,2,Moderate,Medical,Medicare,Y,13580.41,Moderate
+Long Island,Suffolk,50 to 69,117,F,White,Not Span/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,INJ022,NO_PROCEDURE,812,21,2,Major,Medical,Medicare,Y,71557.04,Moderate
+Central NY,Onondaga,70 or Older,130,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,DIG012,GIS006,247,6,2,Moderate,Medical,Medicare,Y,18303.89,Moderate
+Finger Lakes,Monroe,30 to 49,145,M,White,Not Span/Hispanic,5.0,Elective,Home or Self Care,2021,INJ038,MST018,313,8,2,Minor,Surgical,Miscellaneous/Other,N,91515.17,Moderate
+Hudson Valley,Westchester,18 to 29,105,F,Black/African American,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INJ010,URN003,930,25,2,Minor,Medical,Miscellaneous/Other,Y,139438.6,Moderate
+Central NY,Jefferson,50 to 69,136,F,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,CIR017,NO_PROCEDURE,201,5,2,Moderate,Medical,Miscellaneous/Other,Y,21384.58,Moderate
+Southern Tier,Broome,18 to 29,OOS,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,PRG029,PGN002,560,14,2,Minor,Medical,Miscellaneous/Other,N,8541.9,Moderate
+Capital/Adirond,Albany,18 to 29,123,M,White,Not Span/Hispanic,1.0,Trauma,Left Against Medical Advice,2021,INJ009,NO_PROCEDURE,40,1,2,Minor,Medical,Miscellaneous/Other,Y,26911.51,Moderate
+Long Island,Suffolk,30 to 49,117,F,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INJ005,MST011,313,8,2,Moderate,Surgical,Miscellaneous/Other,Y,47391.41,Moderate
+Finger Lakes,Monroe,70 or Older,146,F,White,Not Span/Hispanic,2.0,Emergency,Home w/ Home Health Services,2021,INJ010,NO_PROCEDURE,207,5,2,Minor,Medical,Miscellaneous/Other,Y,10092.41,Moderate
+New York City,Manhattan,50 to 69,103,F,White,Not Span/Hispanic,4.0,Elective,Home w/ Home Health Services,2021,MUS011,MST013,321,8,2,Moderate,Surgical,Miscellaneous/Other,N,117735.31,Moderate
+Southern Tier,Chenango,50 to 69,138,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,GEN004,ADM015,463,11,2,Moderate,Medical,Miscellaneous/Other,Y,17337.6,Moderate
+Long Island,Nassau,50 to 69,117,F,Other Race,Spanish/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG010,IMG007,254,6,2,Minor,Medical,Miscellaneous/Other,N,21533.79,Moderate
+New York City,Manhattan,30 to 49,OOS,M,Other Race,Not Span/Hispanic,1.0,Emergency,Another Type Not Listed,2021,INJ011,EYP002,82,2,2,Minor,Medical,Miscellaneous/Other,Y,10643.12,Moderate
+Hudson Valley,Orange,30 to 49,109,F,Other Race,Spanish/Hispanic,9.0,Emergency,Home or Self Care,2021,MBD003,NO_PROCEDURE,753,19,2,Minor,Medical,Miscellaneous/Other,Y,35969.88,Moderate
+New York City,Kings,50 to 69,112,M,White,Not Span/Hispanic,6.0,Emergency,Inpatient Rehabilitation Facility,2021,INJ004,MST009,315,8,2,Minor,Surgical,Miscellaneous/Other,Y,86605.65,Moderate
+Finger Lakes,Monroe,70 or Older,146,F,White,Not Span/Hispanic,7.0,Emergency,Home w/ Home Health Services,2021,INJ010,SKB006,135,4,2,Minor,Medical,Miscellaneous/Other,Y,17889.57,Moderate
+New York City,Bronx,50 to 69,104,F,Other Race,Unknown,4.0,Elective,Home or Self Care,2021,DIG019,NO_PROCEDURE,283,7,2,Minor,Medical,Miscellaneous/Other,N,18628.8,Moderate
+New York City,Bronx,30 to 49,OOS,M,Other Race,Unknown,3.0,Emergency,Home or Self Care,2021,INJ005,ESA004,342,8,2,Minor,Medical,Miscellaneous/Other,Y,22272.18,Moderate
+Long Island,Nassau,30 to 49,114,M,Other Race,Not Span/Hispanic,3.0,Elective,Home or Self Care,2021,MUS011,MST013,304,8,2,Minor,Surgical,Miscellaneous/Other,N,437125.68,Moderate
+Hudson Valley,Orange,50 to 69,125,M,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INJ003,ENT013,912,25,2,Minor,Surgical,Miscellaneous/Other,Y,73245.71,Moderate
+Southern Tier,Broome,50 to 69,139,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,CIR011,IMG001,190,5,2,Moderate,Medical,Miscellaneous/Other,N,15904.28,Moderate
+Southern Tier,Broome,50 to 69,138,M,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,CIR029,CAR011,169,5,2,Minor,Surgical,Miscellaneous/Other,N,88620.84,Moderate
+Central NY,Onondaga,30 to 49,136,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,INJ010,NO_PROCEDURE,930,25,2,Minor,Medical,Miscellaneous/Other,Y,22941.1,Moderate
+Southern Tier,Broome,30 to 49,137,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,INJ037,NO_PROCEDURE,197,5,2,Moderate,Medical,Miscellaneous/Other,Y,12764.7,Moderate
+New York City,Manhattan,30 to 49,116,M,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,INJ005,MST014,314,8,2,Minor,Surgical,Miscellaneous/Other,N,48041.01,Moderate
+New York City,Richmond,30 to 49,103,M,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INJ004,NO_PROCEDURE,342,8,2,Minor,Medical,Miscellaneous/Other,Y,16304.23,Moderate
+Finger Lakes,Schuyler,70 or Older,148,F,White,Not Span/Hispanic,2.0,Emergency,Expired,2021,NEO074,NO_PROCEDURE,861,23,2,Moderate,Medical,Miscellaneous/Other,N,2138.36,Moderate
+New York City,Manhattan,30 to 49,112,M,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,DIG009,GIS022,224,6,2,Minor,Surgical,Private Health Insurance,N,31152.86,Moderate
+New York City,Queens,0 to 17,117,F,White,Not Span/Hispanic,17.0,Emergency,Home w/ Home Health Services,2021,RSP012,ESA004,133,4,2,Minor,Medical,Private Health Insurance,Y,458494.77,Moderate
+Hudson Valley,Westchester,50 to 69,105,M,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INF002,NO_PROCEDURE,720,18,2,Moderate,Medical,Private Health Insurance,Y,30231.25,Moderate
+New York City,Queens,18 to 29,114,M,Other Race,Not Span/Hispanic,1.0,Emergency,Another Type Not Listed,2021,NEO059,IMG006,690,17,2,Major,Medical,Private Health Insurance,Y,15640.12,Moderate
+Hudson Valley,Westchester,50 to 69,105,M,Black/African American,Not Span/Hispanic,2.0,Emergency,Psychiatric Hospital or Unit of Hosp,2021,DIG023,NO_PROCEDURE,283,7,2,Moderate,Medical,Private Health Insurance,Y,22064.91,Moderate
+Long Island,Nassau,18 to 29,112,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,PRG023,PGN002,560,14,2,Minor,Medical,Private Health Insurance,N,29921.72,Moderate
+Capital/Adirond,Rensselaer,30 to 49,120,F,White,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,PRG020,PGN002,560,14,2,Minor,Medical,Private Health Insurance,N,11708.5,Moderate
+Long Island,Suffolk,30 to 49,117,F,White,Not Span/Hispanic,2.0,Urgent,Home or Self Care,2021,PRG029,PGN002,560,14,2,Minor,Medical,Private Health Insurance,Y,25732.0,Moderate
+New York City,Queens,0 to 17,115,F,Other Race,Spanish/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,2,Minor,Medical,Private Health Insurance,N,16910.39,Moderate
+Capital/Adirond,Albany,50 to 69,120,F,White,Not Span/Hispanic,2.0,Urgent,Home or Self Care,2021,CIR033,NO_PROCEDURE,279,7,2,Minor,Medical,Private Health Insurance,N,9602.1,Moderate
+Western NY,Erie,0 to 17,142,M,Other Race,Unknown,4.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,634,15,2,Minor,Medical,Private Health Insurance,N,10865.18,Moderate
+Long Island,Nassau,18 to 29,113,F,White,Not Span/Hispanic,4.0,Elective,Home or Self Care,2021,PRG029,PGN003,540,14,2,Minor,Surgical,Private Health Insurance,N,82777.0,Moderate
+New York City,Manhattan,50 to 69,OOS,F,White,Not Span/Hispanic,2.0,Elective,Home w/ Home Health Services,2021,INJ035,MST013,304,8,2,Minor,Surgical,Private Health Insurance,N,175487.88,Moderate
+New York City,Kings,50 to 69,112,M,Black/African American,Unknown,1.0,Elective,Home or Self Care,2021,NEO039,MRS003,484,12,2,Minor,Surgical,Private Health Insurance,N,92515.04,Moderate
+New York City,Kings,0 to 17,112,F,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,MBD012,NO_PROCEDURE,817,21,2,Moderate,Medical,Private Health Insurance,Y,27995.85,Moderate
+New York City,Manhattan,50 to 69,112,F,White,Not Span/Hispanic,4.0,Elective,Home w/ Home Health Services,2021,NEO015,GIS009,230,6,2,Moderate,Surgical,Private Health Insurance,N,168109.61,Moderate
+Long Island,Nassau,30 to 49,115,F,Black/African American,Not Span/Hispanic,4.0,Elective,Home or Self Care,2021,FAC010,GIS003,230,6,2,Minor,Surgical,Private Health Insurance,N,110619.43,Moderate
+Long Island,Nassau,50 to 69,117,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG017,HEP008,284,7,2,Minor,Medical,Private Health Insurance,Y,52371.03,Moderate
+New York City,Manhattan,0 to 17,112,M,White,Unknown,6.0,Urgent,Home or Self Care,2021,MUS024,ADM003,346,8,2,Minor,Medical,Private Health Insurance,N,133713.76,Moderate
+New York City,Queens,0 to 17,117,M,White,Not Span/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,GEN026,URN005,466,11,2,Minor,Medical,Private Health Insurance,Y,58357.76,Moderate
+New York City,Manhattan,0 to 17,112,F,Other Race,Unknown,1.0,Elective,Home or Self Care,2021,FAC006,ADM012,696,17,2,Moderate,Medical,Private Health Insurance,Y,22059.15,Moderate
+New York City,Manhattan,0 to 17,112,F,Other Race,Unknown,2.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,2,Minor,Medical,Private Health Insurance,N,16661.72,Moderate
+Southern Tier,Broome,70 or Older,137,F,White,Not Span/Hispanic,7.0,Emergency,Skilled Nursing Home,2021,INJ005,MST011,313,8,2,Major,Surgical,Private Health Insurance,Y,65189.81,Moderate
+New York City,Manhattan,50 to 69,103,F,White,Not Span/Hispanic,2.0,Elective,Home w/ Home Health Services,2021,NEO073,FRS001,513,13,2,Moderate,Surgical,Private Health Insurance,N,63892.29,Moderate
+New York City,Manhattan,30 to 49,100,M,White,Not Span/Hispanic,1.0,Urgent,Home or Self Care,2021,INJ037,NO_PROCEDURE,721,18,2,Minor,Medical,Private Health Insurance,N,13390.01,Moderate
+Hudson Valley,Rockland,30 to 49,109,M,White,Not Span/Hispanic,13.0,Elective,Home or Self Care,2021,MBD017,SUD004,772,20,2,Minor,Medical,Self-Pay,N,96613.98,Moderate
+New York City,Kings,70 or Older,103,M,Black/African American,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,DIG012,ADM021,247,6,2,Moderate,Medical,Self-Pay,Y,49219.98,Moderate
+New York City,Bronx,30 to 49,OOS,M,Other Race,Unknown,7.0,Emergency,Home or Self Care,2021,MBD025,NO_PROCEDURE,774,20,2,Minor,Medical,Self-Pay,Y,29368.67,Moderate
+Central NY,Cayuga,70 or Older,130,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG021,ADM001,253,6,2,Moderate,Medical,Self-Pay,Y,11442.5,Moderate
+Central NY,Oneida,18 to 29,134,M,White,Spanish/Hispanic,5.0,Emergency,Home or Self Care,2021,DIG020,NO_PROCEDURE,282,7,2,Minor,Medical,Self-Pay,Y,31586.77,Moderate
+Finger Lakes,Ontario,50 to 69,144,M,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,DIG001,ADM001,248,6,2,Moderate,Medical,Self-Pay,Y,14634.36,Moderate
+Long Island,Suffolk,70 or Older,119,M,White,Not Span/Hispanic,7.0,Emergency,Skilled Nursing Home,2021,CIR009,NO_PROCEDURE,190,5,2,Major,Medical,Self-Pay,Y,91351.58,Moderate
+Capital/Adirond,Albany,30 to 49,123,M,Other Race,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,MUS026,NO_PROCEDURE,351,8,2,Minor,Medical,Self-Pay,Y,10868.95,Moderate
+Long Island,Suffolk,30 to 49,OOS,M,White,Not Span/Hispanic,4.0,Emergency,Cancer Center or Children's Hospital,2021,MBD017,SUD001,774,20,2,Minor,Medical,Self-Pay,Y,26337.0,Moderate
+New York City,Queens,50 to 69,113,M,Other Race,Spanish/Hispanic,4.0,Emergency,Home or Self Care,2021,CIR008,NO_PROCEDURE,199,5,2,Major,Medical,Self-Pay,Y,35208.97,Moderate
+Long Island,Suffolk,18 to 29,117,M,Other Race,Spanish/Hispanic,4.0,Urgent,Home or Self Care,2021,FAC006,ADM012,696,17,2,Moderate,Medical,Self-Pay,N,37539.28,Moderate
+New York City,Queens,0 to 17,Unknown_ZIP,M,White,Spanish/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,ADM010,640,15,2,Minor,Medical,Self-Pay,N,14559.92,Moderate
+New York City,Kings,30 to 49,112,M,Other Race,Spanish/Hispanic,2.0,Emergency,Home or Self Care,2021,INJ042,MST011,313,8,2,Minor,Surgical,Self-Pay,Y,74159.08,Moderate
+Capital/Adirond,Franklin,30 to 49,129,M,White,Not Span/Hispanic,1.0,Emergency,Cancer Center or Children's Hospital,2021,MBD017,NO_PROCEDURE,775,20,2,Minor,Medical,Self-Pay,Y,12898.12,Moderate
+Central NY,Oneida,18 to 29,135,M,Other Race,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,RSP011,NO_PROCEDURE,143,4,2,Minor,Medical,Self-Pay,Y,15498.23,Moderate
+Hudson Valley,Westchester,50 to 69,107,F,Black/African American,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,END003,NO_PROCEDURE,420,10,2,Minor,Medical,Self-Pay,Y,31263.92,Moderate
+Long Island,Suffolk,50 to 69,117,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG020,NO_PROCEDURE,282,7,2,Moderate,Medical,Self-Pay,Y,29496.06,Moderate
+New York City,Manhattan,30 to 49,104,M,Multi-racial,Not Span/Hispanic,8.0,Emergency,Home or Self Care,2021,MBD025,MHT005,775,20,2,Minor,Medical,Self-Pay,Y,33488.79,Moderate
+Hudson Valley,Westchester,70 or Older,107,F,Other Race,Spanish/Hispanic,4.0,Emergency,Home or Self Care,2021,RSP002,NO_PROCEDURE,139,4,2,Moderate,Medical,Self-Pay,Y,36430.36,Moderate
+Capital/Adirond,Albany,70 or Older,120,F,White,Not Span/Hispanic,3.0,Emergency,Skilled Nursing Home,2021,NVS011,NO_PROCEDURE,42,1,2,Minor,Medical,Self-Pay,N,15531.67,Moderate
+New York City,Queens,30 to 49,Unknown_ZIP,M,Other Race,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INJ005,MST011,313,8,2,Minor,Surgical,Self-Pay,Y,54705.01,Moderate
+Central NY,St Lawrence,50 to 69,136,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,CIR019,NO_PROCEDURE,194,5,2,Minor,Medical,Self-Pay,Y,15404.98,Moderate
+Capital/Adirond,Albany,70 or Older,120,M,Other Race,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INJ004,MST009,315,8,2,Minor,Surgical,Self-Pay,Y,55978.43,Moderate
+Western NY,Erie,50 to 69,141,M,White,Not Span/Hispanic,2.0,Emergency,Home w/ Home Health Services,2021,NVS009,MAM011,53,1,2,Minor,Medical,Self-Pay,Y,33028.34,Moderate
+Long Island,Suffolk,70 or Older,119,M,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,GEN004,NO_PROCEDURE,463,11,2,Major,Medical,Self-Pay,Y,74783.73,Moderate
+Hudson Valley,Westchester,50 to 69,104,M,Other Race,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,DIG021,GIS001,254,6,3,Minor,Medical,Blue Cross/Blue Shield,Y,83562.47,Major
+New York City,Manhattan,50 to 69,113,M,Other Race,Not Span/Hispanic,19.0,Elective,Skilled Nursing Home,2021,INF008,RHB002,50,1,3,Major,Medical,Blue Cross/Blue Shield,N,201768.71,Major
+Hudson Valley,Westchester,50 to 69,105,M,Black/African American,Not Span/Hispanic,30.0,Elective,Home w/ Home Health Services,2021,CIR025,NO_PROCEDURE,58,1,3,Moderate,Medical,Blue Cross/Blue Shield,N,87543.57,Major
+New York City,Kings,30 to 49,OOS,M,Black/African American,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,INF012,OTR004,137,4,3,Major,Medical,Blue Cross/Blue Shield,Y,29886.05,Major
+Central NY,Oswego,50 to 69,131,M,White,Not Span/Hispanic,5.0,Emergency,Home w/ Home Health Services,2021,DIG019,NCM001,280,7,3,Extreme,Medical,Blue Cross/Blue Shield,Y,26829.52,Major
+Long Island,Suffolk,30 to 49,117,F,White,Not Span/Hispanic,10.0,Urgent,Home w/ Home Health Services,2021,PRG020,PGN003,540,14,3,Moderate,Surgical,Blue Cross/Blue Shield,Y,121199.07,Major
+Hudson Valley,Orange,70 or Older,109,F,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,DIG001,GIS002,248,6,3,Moderate,Medical,Blue Cross/Blue Shield,Y,64473.31,Major
+Finger Lakes,Monroe,0 to 17,146,F,Other Race,Unknown,2.0,Newborn,Home or Self Care,2021,PNL001,ESA004,640,15,3,Minor,Medical,Blue Cross/Blue Shield,N,7617.43,Major
+Hudson Valley,Orange,50 to 69,125,F,Other Race,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,NVS015,NO_PROCEDURE,48,1,3,Minor,Medical,Blue Cross/Blue Shield,Y,31018.09,Major
+Hudson Valley,Orange,50 to 69,125,F,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INF012,NO_PROCEDURE,137,4,3,Moderate,Medical,Blue Cross/Blue Shield,Y,30343.43,Major
+New York City,Manhattan,30 to 49,111,F,White,Not Span/Hispanic,7.0,Elective,Home or Self Care,2021,DIG024,HEP010,229,6,3,Moderate,Surgical,Blue Cross/Blue Shield,N,140636.67,Major
+New York City,Queens,0 to 17,117,M,White,Not Span/Hispanic,3.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,3,Minor,Medical,Blue Cross/Blue Shield,N,38456.99,Major
+Hudson Valley,Westchester,0 to 17,105,F,Black/African American,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,GEN026,URN007,441,11,3,Major,Surgical,Blue Cross/Blue Shield,Y,204128.19,Major
+Capital/Adirond,Albany,50 to 69,120,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,CIR020,MAM010,45,1,3,Major,Medical,Blue Cross/Blue Shield,Y,32694.48,Major
+Long Island,Nassau,18 to 29,115,F,Black/African American,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,DIG001,OTR004,248,6,3,Major,Medical,Blue Cross/Blue Shield,Y,133900.57,Major
+Finger Lakes,Monroe,0 to 17,144,F,White,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,640,15,3,Minor,Medical,Blue Cross/Blue Shield,N,10437.85,Major
+Finger Lakes,Monroe,30 to 49,144,F,White,Not Span/Hispanic,4.0,Elective,Home or Self Care,2021,GEN005,URN005,443,11,3,Minor,Surgical,Blue Cross/Blue Shield,N,20388.03,Major
+New York City,Manhattan,70 or Older,100,M,White,Spanish/Hispanic,4.0,Emergency,Home or Self Care,2021,NEO070,IMG004,136,4,3,Major,Medical,Blue Cross/Blue Shield,Y,129474.88,Major
+Finger Lakes,Monroe,30 to 49,144,F,White,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,CIR009,IMG001,190,5,3,Moderate,Medical,Blue Cross/Blue Shield,Y,40733.43,Major
+Western NY,Erie,18 to 29,OOS,F,White,Not Span/Hispanic,7.0,Elective,Home or Self Care,2021,PRG011,PGN002,560,14,3,Minor,Medical,Blue Cross/Blue Shield,N,38434.1,Major
+Finger Lakes,Monroe,50 to 69,146,F,White,Not Span/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,CIR009,CAR004,174,5,3,Major,Surgical,Blue Cross/Blue Shield,Y,72744.1,Major
+New York City,Queens,50 to 69,115,F,White,Not Span/Hispanic,8.0,Emergency,Home or Self Care,2021,INF002,NO_PROCEDURE,720,18,3,Major,Medical,Blue Cross/Blue Shield,Y,139559.04,Major
+New York City,Manhattan,30 to 49,115,M,Black/African American,Not Span/Hispanic,10.0,Elective,Home or Self Care,2021,NVS009,CNS014,29,1,3,Moderate,Surgical,Blue Cross/Blue Shield,N,255194.6,Major
+Central NY,Madison,50 to 69,134,F,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,3,Major,Medical,Blue Cross/Blue Shield,Y,22426.17,Major
+Long Island,Nassau,0 to 17,117,M,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,RSP005,ESA004,138,4,3,Moderate,Medical,Blue Cross/Blue Shield,Y,111502.13,Major
+Western NY,Erie,50 to 69,140,M,Other Race,Unknown,7.0,Emergency,Court/Law Enforcement,2021,INJ001,MST012,92,3,3,Moderate,Surgical,Department of Corrections,Y,50205.31,Major
+Hudson Valley,Orange,50 to 69,127,M,Other Race,Spanish/Hispanic,21.0,Emergency,Court/Law Enforcement,2021,INF002,CAR004,710,18,3,Extreme,Surgical,Department of Corrections,Y,264441.15,Major
+Western NY,Wyoming,70 or Older,140,M,White,Not Span/Hispanic,4.0,Emergency,Court/Law Enforcement,2021,INF012,ADM016,137,4,3,Major,Medical,Department of Corrections,Y,13479.77,Major
+Long Island,Suffolk,50 to 69,117,M,Black/African American,Not Span/Hispanic,34.0,Emergency,Court/Law Enforcement,2021,INF002,IMG008,720,18,3,Extreme,Medical,Department of Corrections,Y,289783.36,Major
+Western NY,Erie,30 to 49,140,M,Black/African American,Not Span/Hispanic,6.0,Emergency,Court/Law Enforcement,2021,INJ005,MST011,314,8,3,Minor,Surgical,Department of Corrections,Y,45766.93,Major
+Central NY,Oneida,70 or Older,134,M,White,Not Span/Hispanic,5.0,Emergency,Facility w/ Custodial/Supportive Care,2021,END011,NO_PROCEDURE,426,10,3,Moderate,Medical,Department of Corrections,Y,18854.91,Major
+Hudson Valley,Dutchess,30 to 49,125,M,Other Race,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,SYM011,NO_PROCEDURE,468,11,3,Major,Medical,Federal/State/Local/VA,Y,16533.87,Major
+Capital/Adirond,Otsego,50 to 69,134,F,White,Not Span/Hispanic,5.0,Emergency,Home w/ Home Health Services,2021,MBD017,NO_PROCEDURE,775,20,3,Moderate,Medical,Federal/State/Local/VA,N,11614.32,Major
+Finger Lakes,Wayne,70 or Older,145,M,White,Not Span/Hispanic,8.0,Emergency,Home w/ Home Health Services,2021,CIR019,NO_PROCEDURE,194,5,3,Major,Medical,Federal/State/Local/VA,Y,32441.06,Major
+Western NY,Erie,50 to 69,142,M,White,Not Span/Hispanic,1.0,Emergency,Left Against Medical Advice,2021,RSP008,ESA004,140,4,3,Major,Medical,Federal/State/Local/VA,Y,15222.55,Major
+Finger Lakes,Monroe,70 or Older,144,M,White,Unknown,3.0,Emergency,Home or Self Care,2021,GEN003,ESA004,194,5,3,Major,Medical,Federal/State/Local/VA,Y,16067.09,Major
+Finger Lakes,Monroe,50 to 69,146,M,Black/African American,Not Span/Hispanic,19.0,Emergency,Skilled Nursing Home,2021,INF002,CAR024,720,18,3,Moderate,Medical,Federal/State/Local/VA,Y,53236.72,Major
+New York City,Queens,50 to 69,114,M,Black/African American,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,INF002,MAM005,720,18,3,Major,Medical,Federal/State/Local/VA,Y,138017.74,Major
+Long Island,Suffolk,70 or Older,117,M,White,Not Span/Hispanic,13.0,Emergency,Skilled Nursing Home,2021,END003,NO_PROCEDURE,420,10,3,Major,Medical,Federal/State/Local/VA,Y,111384.91,Major
+Central NY,Onondaga,50 to 69,130,M,White,Not Span/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,INF002,GIS016,720,18,3,Major,Medical,Federal/State/Local/VA,Y,37454.94,Major
+Western NY,Erie,70 or Older,142,M,White,Not Span/Hispanic,3.0,Emergency,Home w/ Home Health Services,2021,RSP008,NO_PROCEDURE,140,4,3,Major,Medical,Federal/State/Local/VA,Y,16467.51,Major
+Western NY,Erie,0 to 17,141,F,White,Unknown,9.0,Elective,Home w/ Home Health Services,2021,DIG025,CAR024,254,6,3,Minor,Medical,Federal/State/Local/VA,N,46721.01,Major
+New York City,Manhattan,50 to 69,117,M,White,Not Span/Hispanic,4.0,Elective,Home or Self Care,2021,NEO051,HEP005,260,7,3,Moderate,Surgical,Federal/State/Local/VA,N,79518.63,Major
+Central NY,Jefferson,18 to 29,136,F,White,Not Span/Hispanic,2.0,Urgent,Home or Self Care,2021,PRG012,PGN002,560,14,3,Minor,Medical,Federal/State/Local/VA,N,14583.6,Major
+Western NY,Cattaraugus,70 or Older,147,M,White,Not Span/Hispanic,2.0,Emergency,Expired,2021,CIR019,RES007,194,5,3,Major,Medical,Federal/State/Local/VA,Y,10736.4,Major
+Central NY,St Lawrence,30 to 49,129,F,White,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,RSP012,ESA004,133,4,3,Major,Medical,Federal/State/Local/VA,Y,26083.66,Major
+Western NY,Chautauqua,50 to 69,147,M,White,Not Span/Hispanic,5.0,Emergency,Left Against Medical Advice,2021,RSP008,NO_PROCEDURE,140,4,3,Major,Medical,Federal/State/Local/VA,Y,12700.75,Major
+Western NY,Erie,70 or Older,140,M,White,Unknown,4.0,Emergency,Skilled Nursing Home,2021,INJ002,NO_PROCEDURE,347,8,3,Major,Medical,Federal/State/Local/VA,Y,17590.72,Major
+Central NY,Jefferson,50 to 69,136,M,Black/African American,Not Span/Hispanic,3.0,Emergency,Home w/ Home Health Services,2021,END003,NO_PROCEDURE,420,10,3,Major,Medical,Federal/State/Local/VA,Y,22156.78,Major
+Central NY,Madison,70 or Older,134,M,White,Not Span/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,INJ034,ADM015,466,11,3,Major,Medical,Federal/State/Local/VA,Y,16438.41,Major
+Hudson Valley,Sullivan,70 or Older,127,M,White,Not Span/Hispanic,5.0,Emergency,Skilled Nursing Home,2021,NVS020,NO_PROCEDURE,52,1,3,Major,Medical,Federal/State/Local/VA,Y,54908.78,Major
+Central NY,Jefferson,70 or Older,136,M,White,Not Span/Hispanic,5.0,Emergency,Home w/ Home Health Services,2021,RSP014,RES006,143,4,3,Major,Medical,Federal/State/Local/VA,Y,45092.28,Major
+Finger Lakes,Monroe,70 or Older,140,F,White,Not Span/Hispanic,4.0,Emergency,Skilled Nursing Home,2021,DIG012,NO_PROCEDURE,247,6,3,Moderate,Medical,Federal/State/Local/VA,Y,15628.12,Major
+Long Island,Suffolk,50 to 69,117,M,Other Race,Unknown,11.0,Emergency,Home or Self Care,2021,INF002,MAM011,720,18,3,Major,Medical,Federal/State/Local/VA,Y,123700.63,Major
+Western NY,Erie,50 to 69,142,M,Black/African American,Not Span/Hispanic,4.0,Emergency,Left Against Medical Advice,2021,INJ022,ESA001,812,21,3,Moderate,Medical,Federal/State/Local/VA,Y,30820.56,Major
+Central NY,Onondaga,70 or Older,134,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,CIR021,CNS004,29,1,3,Major,Surgical,Federal/State/Local/VA,N,39526.03,Major
+Hudson Valley,Dutchess,0 to 17,Unknown_ZIP,M,White,Not Span/Hispanic,5.0,Newborn,Home or Self Care,2021,PNL001,MRS001,640,15,3,Minor,Medical,"Managed Care, Unspecified",N,7748.13,Major
+Capital/Adirond,Albany,50 to 69,123,F,Other Race,Spanish/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,RSP012,ESA005,133,4,3,Major,Medical,"Managed Care, Unspecified",Y,63402.01,Major
+Capital/Adirond,Albany,0 to 17,124,F,Other Race,Unknown,73.0,Newborn,Home or Self Care,2021,PNL001,ESA004,593,15,3,Moderate,Medical,"Managed Care, Unspecified",N,687481.05,Major
+Capital/Adirond,Albany,30 to 49,122,M,White,Not Span/Hispanic,13.0,Emergency,Another Type Not Listed,2021,INJ003,MST012,912,25,3,Moderate,Surgical,"Managed Care, Unspecified",Y,91116.41,Major
+Hudson Valley,Ulster,50 to 69,124,F,Black/African American,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,END011,ESA001,425,10,3,Minor,Medical,"Managed Care, Unspecified",Y,34928.51,Major
+Capital/Adirond,Albany,50 to 69,122,M,White,Not Span/Hispanic,8.0,Elective,Home w/ Home Health Services,2021,CIR025,RHB002,58,1,3,Major,Medical,"Managed Care, Unspecified",N,46427.82,Major
+Capital/Adirond,Albany,50 to 69,121,F,White,Not Span/Hispanic,7.0,Elective,Home or Self Care,2021,NEO012,GIS010,220,6,3,Moderate,Surgical,"Managed Care, Unspecified",N,86273.12,Major
+Capital/Adirond,Albany,30 to 49,129,F,White,Not Span/Hispanic,4.0,Urgent,Home or Self Care,2021,PRG028,PGN003,540,14,3,Minor,Surgical,"Managed Care, Unspecified",N,34296.53,Major
+Capital/Adirond,Albany,30 to 49,123,F,White,Not Span/Hispanic,8.0,Elective,Home or Self Care,2021,MAL001,CAR019,167,5,3,Major,Surgical,"Managed Care, Unspecified",N,135831.42,Major
+Capital/Adirond,Albany,50 to 69,124,M,White,Not Span/Hispanic,7.0,Emergency,Inpatient Rehabilitation Facility,2021,NEO070,CNS007,21,1,3,Extreme,Surgical,"Managed Care, Unspecified",Y,111598.98,Major
+Capital/Adirond,Warren,50 to 69,128,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,3,Major,Medical,"Managed Care, Unspecified",Y,28147.55,Major
+Central NY,Oswego,50 to 69,131,M,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INF012,ADM016,137,4,3,Major,Medical,"Managed Care, Unspecified",Y,17798.16,Major
+New York City,Kings,50 to 69,112,M,White,Not Span/Hispanic,12.0,Emergency,Skilled Nursing Home,2021,DIG019,IMG003,280,7,3,Major,Medical,"Managed Care, Unspecified",Y,78296.64,Major
+Long Island,Suffolk,0 to 17,115,F,Black/African American,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,ESA004,640,15,3,Minor,Medical,"Managed Care, Unspecified",N,22974.96,Major
+Western NY,Erie,70 or Older,140,M,Other Race,Not Span/Hispanic,3.0,Elective,Expired,2021,NEO070,ENP001,41,1,3,Major,Medical,"Managed Care, Unspecified",N,32405.2,Major
+Capital/Adirond,Albany,0 to 17,120,F,White,Not Span/Hispanic,11.0,Emergency,Psychiatric Hospital or Unit of Hosp,2021,MBD002,NO_PROCEDURE,751,19,3,Major,Medical,"Managed Care, Unspecified",Y,39525.69,Major
+Capital/Adirond,Albany,30 to 49,120,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INJ037,NO_PROCEDURE,813,21,3,Moderate,Medical,"Managed Care, Unspecified",Y,10259.02,Major
+Western NY,Erie,50 to 69,142,M,White,Not Span/Hispanic,37.0,Elective,Home or Self Care,2021,NEO065,ADM011,8,17,3,Major,Medical,"Managed Care, Unspecified",N,475667.23,Major
+Capital/Adirond,Albany,0 to 17,121,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INF012,NO_PROCEDURE,137,4,3,Moderate,Medical,"Managed Care, Unspecified",Y,9653.16,Major
+New York City,Manhattan,50 to 69,100,M,Black/African American,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,CIR034,NO_PROCEDURE,197,5,3,Moderate,Medical,"Managed Care, Unspecified",Y,50968.16,Major
+New York City,Kings,50 to 69,112,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,DIG021,GIS001,241,6,3,Major,Medical,"Managed Care, Unspecified",Y,29765.55,Major
+Hudson Valley,Dutchess,30 to 49,126,F,White,Unknown,2.0,Emergency,Home or Self Care,2021,END015,NO_PROCEDURE,424,10,3,Major,Medical,"Managed Care, Unspecified",Y,24569.44,Major
+Western NY,Erie,70 or Older,143,M,White,Not Span/Hispanic,6.0,Elective,Home w/ Home Health Services,2021,NEO051,IMG007,281,7,3,Major,Medical,"Managed Care, Unspecified",N,50337.59,Major
+Capital/Adirond,Albany,30 to 49,122,F,White,Not Span/Hispanic,8.0,Emergency,Home or Self Care,2021,MBD012,CAR024,817,21,3,Major,Medical,"Managed Care, Unspecified",Y,50426.6,Major
+Capital/Adirond,Albany,0 to 17,128,M,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,RSP005,NO_PROCEDURE,138,4,3,Major,Medical,"Managed Care, Unspecified",Y,8516.66,Major
+New York City,Bronx,30 to 49,104,M,Black/African American,Not Span/Hispanic,15.0,Emergency,Home or Self Care,2021,MBD001,MHT002,750,19,3,Moderate,Medical,Medicaid,Y,154638.68,Major
+New York City,Kings,18 to 29,112,M,Black/African American,Not Span/Hispanic,47.0,Emergency,Home or Self Care,2021,MBD001,MHT002,750,19,3,Minor,Medical,Medicaid,Y,154224.36,Major
+New York City,Manhattan,0 to 17,112,M,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,INJ034,NO_PROCEDURE,466,11,3,Moderate,Medical,Medicaid,Y,99063.37,Major
+Hudson Valley,Dutchess,30 to 49,125,F,White,Not Span/Hispanic,7.0,Urgent,Home or Self Care,2021,END011,CAR015,405,10,3,Moderate,Surgical,Medicaid,N,56739.05,Major
+New York City,Kings,30 to 49,112,F,Black/African American,Not Span/Hispanic,8.0,Emergency,Home or Self Care,2021,BLD005,ADM021,662,16,3,Major,Medical,Medicaid,Y,56547.0,Major
+Hudson Valley,Westchester,70 or Older,105,F,Other Race,Spanish/Hispanic,14.0,Emergency,Skilled Nursing Home,2021,DIG017,HEP006,263,7,3,Major,Surgical,Medicaid,Y,198554.14,Major
+New York City,Kings,18 to 29,112,M,Black/African American,Not Span/Hispanic,12.0,Emergency,Home or Self Care,2021,INJ008,MST012,910,25,3,Minor,Surgical,Medicaid,Y,111633.71,Major
+New York City,Queens,18 to 29,113,F,Black/African American,Not Span/Hispanic,3.0,Emergency,Home w/ Home Health Services,2021,PRG022,PGN002,560,14,3,Minor,Medical,Medicaid,N,25347.95,Major
+New York City,Manhattan,50 to 69,112,F,Black/African American,Not Span/Hispanic,11.0,Emergency,Expired,2021,INF002,IMG007,720,18,3,Major,Medical,Medicaid,Y,75655.44,Major
+Finger Lakes,Monroe,30 to 49,146,F,Black/African American,Not Span/Hispanic,5.0,Emergency,Home w/ Home Health Services,2021,INF012,NO_PROCEDURE,137,4,3,Major,Medical,Medicaid,Y,18446.25,Major
+New York City,Manhattan,50 to 69,112,M,Other Race,Unknown,7.0,Emergency,Home or Self Care,2021,BLD003,LYM007,663,16,3,Major,Medical,Medicaid,Y,85286.88,Major
+Long Island,Suffolk,18 to 29,117,F,Other Race,Spanish/Hispanic,4.0,Elective,Home or Self Care,2021,PRG013,PGN002,560,14,3,Minor,Medical,Medicaid,N,49712.45,Major
+New York City,Queens,70 or Older,113,M,Other Race,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,NEO039,MRS004,500,12,3,Major,Medical,Medicaid,Y,36255.08,Major
+Long Island,Nassau,50 to 69,114,M,Black/African American,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INF012,NO_PROCEDURE,137,4,3,Major,Medical,Medicaid,Y,48075.95,Major
+New York City,Manhattan,50 to 69,115,M,Black/African American,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INF002,NO_PROCEDURE,720,18,3,Major,Medical,Medicaid,Y,77531.92,Major
+New York City,Manhattan,50 to 69,100,M,Black/African American,Not Span/Hispanic,14.0,Emergency,Skilled Nursing Home,2021,CIR019,ADM001,194,5,3,Major,Medical,Medicaid,Y,131526.8,Major
+Hudson Valley,Westchester,18 to 29,124,M,Other Race,Unknown,25.0,Emergency,Home or Self Care,2021,FAC006,ADM012,695,17,3,Moderate,Medical,Medicaid,Y,787225.0,Major
+Western NY,Erie,50 to 69,142,M,Black/African American,Not Span/Hispanic,7.0,Emergency,Left Against Medical Advice,2021,MUS011,MST002,347,8,3,Moderate,Medical,Medicaid,Y,45792.13,Major
+New York City,Manhattan,70 or Older,107,M,White,Not Span/Hispanic,1.0,Elective,Home w/ Home Health Services,2021,NVS003,CNS001,42,1,3,Moderate,Medical,Medicaid,N,120390.57,Major
+Finger Lakes,Monroe,50 to 69,146,M,Black/African American,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,GEN006,CAR024,468,11,3,Extreme,Medical,Medicaid,Y,17175.33,Major
+New York City,Manhattan,30 to 49,100,F,Black/African American,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INJ022,NO_PROCEDURE,812,21,3,Moderate,Medical,Medicaid,Y,104402.17,Major
+Capital/Adirond,Saratoga,18 to 29,128,F,White,Not Span/Hispanic,4.0,Elective,Home or Self Care,2021,PRG020,PGN002,560,14,3,Minor,Medical,Medicaid,N,27858.87,Major
+Finger Lakes,Monroe,30 to 49,143,F,Other Race,Unknown,43.0,Urgent,Home w/ Home Health Services,2021,CIR004,CAR012,167,5,3,Major,Surgical,Medicaid,N,249365.66,Major
+Hudson Valley,Westchester,50 to 69,107,F,Black/African American,Not Span/Hispanic,5.0,Emergency,Skilled Nursing Home,2021,SKN001,NO_PROCEDURE,383,9,3,Moderate,Medical,Medicaid,Y,34682.48,Major
+Capital/Adirond,Schenectady,18 to 29,123,F,Black/African American,Not Span/Hispanic,4.0,Elective,Home or Self Care,2021,PRG022,PGN002,560,14,3,Minor,Medical,Medicaid,N,24690.67,Major
+Finger Lakes,Monroe,70 or Older,146,F,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,GEN003,ESA001,194,5,3,Major,Medical,Medicare,Y,21776.28,Major
+New York City,Manhattan,70 or Older,100,M,White,Not Span/Hispanic,11.0,Elective,Home w/ Home Health Services,2021,NEO002,LYM003,89,3,3,Minor,Surgical,Medicare,N,336578.46,Major
+New York City,Kings,70 or Older,112,F,Other Race,Not Span/Hispanic,13.0,Emergency,Expired,2021,INF002,ADM018,720,18,3,Major,Medical,Medicare,Y,276486.45,Major
+Long Island,Suffolk,70 or Older,117,M,White,Not Span/Hispanic,4.0,Emergency,Skilled Nursing Home,2021,CIR031,NO_PROCEDURE,207,5,3,Major,Medical,Medicare,Y,62683.13,Major
+Hudson Valley,Dutchess,70 or Older,125,M,White,Not Span/Hispanic,10.0,Emergency,Skilled Nursing Home,2021,GEN004,NO_PROCEDURE,463,11,3,Major,Medical,Medicare,Y,41523.87,Major
+Central NY,Onondaga,70 or Older,134,M,Other Race,Unknown,13.0,Emergency,Skilled Nursing Home,2021,CIR009,CAR003,165,5,3,Major,Surgical,Medicare,N,288058.7,Major
+Long Island,Nassau,70 or Older,117,F,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,INF002,NO_PROCEDURE,720,18,3,Moderate,Medical,Medicare,Y,36987.32,Major
+Long Island,Suffolk,70 or Older,119,F,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,RSP008,NO_PROCEDURE,140,4,3,Major,Medical,Medicare,Y,26285.36,Major
+New York City,Bronx,70 or Older,104,F,Other Race,Spanish/Hispanic,5.0,Emergency,Skilled Nursing Home,2021,DIG019,NO_PROCEDURE,283,7,3,Major,Medical,Medicare,Y,120489.15,Major
+Capital/Adirond,Delaware,70 or Older,124,M,White,Not Span/Hispanic,7.0,Elective,Hosp Basd Medicare Approved Swing Bed,2021,RSP002,NO_PROCEDURE,139,4,3,Moderate,Medical,Medicare,N,75170.61,Major
+Capital/Adirond,Fulton,70 or Older,121,M,White,Not Span/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,CIR013,URN006,134,4,3,Moderate,Medical,Medicare,Y,34566.89,Major
+New York City,Manhattan,70 or Older,112,F,White,Not Span/Hispanic,26.0,Emergency,Skilled Nursing Home,2021,DIG012,GIS011,230,6,3,Major,Surgical,Medicare,Y,294987.77,Major
+New York City,Manhattan,50 to 69,105,F,White,Not Span/Hispanic,15.0,Urgent,Inpatient Rehabilitation Facility,2021,CIR019,CAR024,194,5,3,Major,Medical,Medicare,N,191076.1,Major
+New York City,Manhattan,70 or Older,100,M,White,Not Span/Hispanic,1.0,Emergency,Home w/ Home Health Services,2021,CIR017,NO_PROCEDURE,201,5,3,Moderate,Medical,Medicare,Y,44232.98,Major
+New York City,Manhattan,50 to 69,100,F,Other Race,Spanish/Hispanic,8.0,Emergency,Home w/ Home Health Services,2021,INF012,NO_PROCEDURE,137,4,3,Major,Medical,Medicare,Y,90233.75,Major
+New York City,Bronx,70 or Older,104,M,White,Not Span/Hispanic,14.0,Emergency,Skilled Nursing Home,2021,NEO065,ADM016,691,17,3,Major,Medical,Medicare,Y,232951.85,Major
+New York City,Kings,70 or Older,112,F,White,Not Span/Hispanic,1.0,Emergency,Expired,2021,DIG021,ADM001,253,6,3,Major,Medical,Medicare,Y,23562.04,Major
+Capital/Adirond,Albany,50 to 69,120,F,White,Spanish/Hispanic,6.0,Emergency,Home or Self Care,2021,DIG014,GIS016,254,6,3,Moderate,Medical,Medicare,Y,39809.15,Major
+Hudson Valley,Dutchess,70 or Older,125,F,White,Not Span/Hispanic,7.0,Emergency,Skilled Nursing Home,2021,DIG018,NO_PROCEDURE,279,7,3,Major,Medical,Medicare,Y,66878.36,Major
+Long Island,Suffolk,70 or Older,117,M,Other Race,Spanish/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,SYM010,NO_PROCEDURE,861,23,3,Moderate,Medical,Medicare,Y,59572.0,Major
+Long Island,Nassau,70 or Older,115,F,White,Not Span/Hispanic,11.0,Trauma,Skilled Nursing Home,2021,MUS013,MST007,323,8,3,Major,Surgical,Medicare,Y,420696.43,Major
+Long Island,Nassau,50 to 69,110,F,White,Spanish/Hispanic,5.0,Emergency,Home or Self Care,2021,DIG017,NO_PROCEDURE,284,7,3,Moderate,Medical,Medicare,Y,79188.72,Major
+New York City,Bronx,70 or Older,104,F,Black/African American,Not Span/Hispanic,2.0,Emergency,Home w/ Home Health Services,2021,SYM002,OTR004,722,18,3,Major,Medical,Medicare,Y,51622.35,Major
+Capital/Adirond,Albany,70 or Older,124,F,Black/African American,Not Span/Hispanic,10.0,Urgent,Home or Self Care,2021,INJ033,CAR029,182,5,3,Moderate,Surgical,Medicare,N,98488.92,Major
+Long Island,Nassau,70 or Older,115,F,Other Race,Spanish/Hispanic,7.0,Emergency,Hospice - Home,2021,END013,NO_PROCEDURE,426,10,3,Major,Medical,Medicare,Y,75641.0,Major
+New York City,Richmond,70 or Older,103,M,Black/African American,Not Span/Hispanic,12.0,Trauma,Skilled Nursing Home,2021,INJ003,NO_PROCEDURE,930,25,3,Moderate,Medical,Miscellaneous/Other,Y,144706.94,Major
+New York City,Manhattan,50 to 69,115,F,Black/African American,Not Span/Hispanic,2.0,Elective,Home w/ Home Health Services,2021,MUS011,PNS002,310,8,3,Minor,Surgical,Miscellaneous/Other,N,66980.64,Major
+New York City,Manhattan,70 or Older,112,M,Black/African American,Not Span/Hispanic,4.0,Elective,Home or Self Care,2021,NEO039,MRS003,480,12,3,Major,Surgical,Miscellaneous/Other,N,84897.42,Major
+Finger Lakes,Monroe,18 to 29,144,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INF012,NO_PROCEDURE,137,4,3,Moderate,Medical,Miscellaneous/Other,Y,4670.42,Major
+Finger Lakes,Monroe,18 to 29,146,M,Black/African American,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,INJ010,NO_PROCEDURE,930,25,3,Minor,Medical,Miscellaneous/Other,Y,18167.74,Major
+Hudson Valley,Orange,70 or Older,111,M,Other Race,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,CIR019,NO_PROCEDURE,194,5,3,Extreme,Medical,Miscellaneous/Other,Y,32367.84,Major
+Southern Tier,Broome,50 to 69,137,F,White,Not Span/Hispanic,3.0,Elective,Home or Self Care,2021,MUS011,MST013,321,8,3,Moderate,Surgical,Miscellaneous/Other,N,36022.48,Major
+Hudson Valley,Orange,70 or Older,109,M,White,Not Span/Hispanic,5.0,Emergency,Court/Law Enforcement,2021,GEN004,NO_PROCEDURE,463,11,3,Extreme,Medical,Miscellaneous/Other,Y,51735.9,Major
+Southern Tier,Broome,0 to 17,139,M,White,Not Span/Hispanic,18.0,Newborn,Home or Self Care,2021,PNL001,ESA004,626,15,3,Minor,Medical,Miscellaneous/Other,N,45084.0,Major
+Western NY,Erie,50 to 69,142,M,White,Not Span/Hispanic,3.0,Elective,Skilled Nursing Home,2021,MUS022,MST013,303,8,3,Moderate,Surgical,Miscellaneous/Other,N,259223.79,Major
+Southern Tier,Broome,50 to 69,137,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,RSP008,NO_PROCEDURE,140,4,3,Major,Medical,Miscellaneous/Other,Y,10606.3,Major
+New York City,Kings,0 to 17,112,M,Black/African American,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,INJ005,MST011,912,25,3,Moderate,Surgical,Miscellaneous/Other,N,106545.24,Major
+Long Island,Nassau,70 or Older,115,M,White,Not Span/Hispanic,39.0,Emergency,Skilled Nursing Home,2021,NEO008,RES010,4,3,3,Major,Surgical,Miscellaneous/Other,Y,727505.69,Major
+New York City,Queens,30 to 49,Unknown_ZIP,M,Black/African American,Not Span/Hispanic,20.0,Emergency,Inpatient Rehabilitation Facility,2021,INJ005,MST010,912,25,3,Major,Surgical,Miscellaneous/Other,Y,152029.7,Major
+Hudson Valley,Westchester,30 to 49,Unknown_ZIP,M,Other Race,Unknown,7.0,Emergency,Home or Self Care,2021,INJ004,MST009,313,8,3,Minor,Surgical,Miscellaneous/Other,Y,293714.55,Major
+Southern Tier,Broome,50 to 69,138,M,White,Not Span/Hispanic,1.0,Urgent,Left Against Medical Advice,2021,NEO022,NO_PROCEDURE,136,4,3,Extreme,Medical,Miscellaneous/Other,N,2983.9,Major
+Hudson Valley,Dutchess,70 or Older,126,M,White,Not Span/Hispanic,1.0,Urgent,Expired,2021,FAC010,NO_PROCEDURE,862,23,3,Major,Medical,Miscellaneous/Other,N,2957.68,Major
+Finger Lakes,Monroe,50 to 69,148,M,White,Not Span/Hispanic,7.0,Urgent,Home w/ Home Health Services,2021,INJ037,MST020,711,18,3,Moderate,Surgical,Miscellaneous/Other,N,34141.29,Major
+Hudson Valley,Westchester,0 to 17,112,F,Black/African American,Not Span/Hispanic,63.0,Elective,Home w/ Home Health Services,2021,PNL006,ESA003,130,4,3,Moderate,Medical,Miscellaneous/Other,N,454404.25,Major
+Southern Tier,Broome,30 to 49,139,M,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,MBD012,NO_PROCEDURE,817,21,3,Moderate,Medical,Miscellaneous/Other,Y,16237.3,Major
+Capital/Adirond,Warren,50 to 69,Unknown_ZIP,M,Other Race,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,NVS019,MST028,861,23,3,Major,Medical,Miscellaneous/Other,N,47975.5,Major
+Long Island,Nassau,50 to 69,115,M,White,Not Span/Hispanic,12.0,Emergency,Skilled Nursing Home,2021,RSP012,ESA003,130,4,3,Major,Medical,Miscellaneous/Other,Y,255725.22,Major
+Capital/Adirond,Albany,0 to 17,120,M,White,Not Span/Hispanic,4.0,Trauma,Home or Self Care,2021,INJ003,MST012,320,8,3,Minor,Surgical,Miscellaneous/Other,Y,48226.24,Major
+Long Island,Suffolk,30 to 49,117,M,Other Race,Spanish/Hispanic,1.0,Emergency,Home or Self Care,2021,INJ004,MST015,342,8,3,Minor,Medical,Miscellaneous/Other,Y,38556.27,Major
+Central NY,Onondaga,50 to 69,131,M,White,Not Span/Hispanic,9.0,Emergency,Inpatient Rehabilitation Facility,2021,INJ002,MST013,304,8,3,Moderate,Surgical,Miscellaneous/Other,Y,221320.2,Major
+New York City,Manhattan,0 to 17,112,F,Black/African American,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,MBD007,MHT001,755,19,3,Minor,Medical,Private Health Insurance,Y,5605.71,Major
+Capital/Adirond,Albany,50 to 69,121,M,White,Not Span/Hispanic,10.0,Emergency,Skilled Nursing Home,2021,INF009,GIS001,724,18,3,Major,Medical,Private Health Insurance,Y,76645.56,Major
+Southern Tier,Broome,70 or Older,138,M,White,Not Span/Hispanic,1.0,Emergency,Expired,2021,RSP002,NO_PROCEDURE,139,4,3,Major,Medical,Private Health Insurance,Y,6593.2,Major
+New York City,Manhattan,30 to 49,OOS,F,Other Race,Unknown,5.0,Emergency,Home or Self Care,2021,PRG020,MST021,560,14,3,Minor,Medical,Private Health Insurance,Y,91378.54,Major
+Central NY,Onondaga,0 to 17,131,F,Other Race,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,DIG011,NO_PROCEDURE,245,6,3,Minor,Medical,Private Health Insurance,Y,34216.4,Major
+Western NY,Erie,50 to 69,140,M,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,NEO058,RES005,691,17,3,Major,Medical,Private Health Insurance,Y,125395.48,Major
+Long Island,Nassau,30 to 49,110,F,Other Race,Not Span/Hispanic,2.0,Elective,Home or Self Care,2021,PRG029,PGN002,560,14,3,Moderate,Medical,Private Health Insurance,N,31799.81,Major
+New York City,Manhattan,50 to 69,116,M,White,Unknown,7.0,Emergency,Home or Self Care,2021,NEO070,RES004,136,4,3,Major,Medical,Private Health Insurance,N,87037.31,Major
+New York City,Manhattan,50 to 69,105,F,White,Not Span/Hispanic,5.0,Elective,Home w/ Home Health Services,2021,MAL001,CAR020,167,5,3,Moderate,Surgical,Private Health Insurance,N,264021.45,Major
+Long Island,Nassau,50 to 69,110,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,OTR004,137,4,3,Major,Medical,Private Health Insurance,Y,54154.0,Major
+Hudson Valley,Westchester,50 to 69,105,M,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,DIG011,GIS007,245,6,3,Major,Medical,Private Health Insurance,Y,51723.87,Major
+Long Island,Nassau,50 to 69,114,F,Other Race,Spanish/Hispanic,2.0,Emergency,Home or Self Care,2021,INF002,NO_PROCEDURE,720,18,3,Major,Medical,Private Health Insurance,Y,43578.76,Major
+Hudson Valley,Ulster,70 or Older,124,M,White,Not Span/Hispanic,5.0,Emergency,Facility w/ Custodial/Supportive Care,2021,INF012,OTR004,137,4,3,Major,Medical,Private Health Insurance,Y,68343.75,Major
+New York City,Manhattan,18 to 29,100,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,DIG009,OTR004,248,6,3,Major,Medical,Private Health Insurance,Y,39596.46,Major
+Hudson Valley,Orange,30 to 49,127,F,Other Race,Not Span/Hispanic,12.0,Emergency,Home or Self Care,2021,INF002,ADM001,720,18,3,Major,Medical,Private Health Insurance,Y,113524.16,Major
+Long Island,Nassau,30 to 49,114,F,Black/African American,Not Span/Hispanic,3.0,Emergency,Home w/ Home Health Services,2021,DIG010,GNR002,227,6,3,Minor,Surgical,Private Health Insurance,Y,65310.35,Major
+New York City,Bronx,50 to 69,100,M,White,Not Span/Hispanic,5.0,Emergency,Home w/ Home Health Services,2021,INJ011,SKB006,912,25,3,Minor,Surgical,Private Health Insurance,Y,46631.79,Major
+Hudson Valley,Westchester,50 to 69,105,F,White,Not Span/Hispanic,8.0,Elective,Home w/ Home Health Services,2021,INJ035,MST013,304,8,3,Minor,Surgical,Private Health Insurance,N,454383.9,Major
+Central NY,Oneida,50 to 69,133,F,White,Not Span/Hispanic,9.0,Emergency,Home or Self Care,2021,NEO022,RES002,136,4,3,Major,Medical,Private Health Insurance,Y,76592.13,Major
+Long Island,Nassau,50 to 69,115,F,Other Race,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,INF012,MAM007,137,4,3,Major,Medical,Private Health Insurance,N,17778.92,Major
+Hudson Valley,Westchester,50 to 69,105,F,Other Race,Spanish/Hispanic,4.0,Elective,Inpatient Rehabilitation Facility,2021,MUS006,MST006,326,8,3,Minor,Surgical,Private Health Insurance,N,73931.95,Major
+Long Island,Nassau,0 to 17,115,M,Other Race,Not Span/Hispanic,2.0,Newborn,Home or Self Care,2021,PNL001,NO_PROCEDURE,626,15,3,Minor,Medical,Private Health Insurance,N,16150.79,Major
+New York City,Manhattan,50 to 69,OOS,F,White,Not Span/Hispanic,10.0,Elective,Home w/ Home Health Services,2021,MUS023,MST020,89,3,3,Moderate,Surgical,Private Health Insurance,N,350970.92,Major
+New York City,Kings,50 to 69,112,F,Other Race,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INJ034,NO_PROCEDURE,466,11,3,Major,Medical,Private Health Insurance,Y,59748.41,Major
+Central NY,Oneida,50 to 69,135,F,White,Not Span/Hispanic,17.0,Emergency,Home or Self Care,2021,DIG013,GIS009,231,6,3,Major,Surgical,Private Health Insurance,Y,124749.89,Major
+New York City,Queens,30 to 49,OOS,M,Other Race,Spanish/Hispanic,1.0,Emergency,Home or Self Care,2021,CIR017,NO_PROCEDURE,201,5,3,Major,Medical,Self-Pay,Y,12267.07,Major
+Long Island,Suffolk,30 to 49,117,M,Other Race,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,RSP009,NO_PROCEDURE,141,4,3,Major,Medical,Self-Pay,Y,12048.18,Major
+Hudson Valley,Dutchess,30 to 49,125,M,Other Race,Spanish/Hispanic,4.0,Emergency,Home or Self Care,2021,DIG022,NO_PROCEDURE,249,6,3,Major,Medical,Self-Pay,Y,23240.13,Major
+Hudson Valley,Orange,30 to 49,124,M,Other Race,Spanish/Hispanic,6.0,Emergency,Home or Self Care,2021,END003,ESA001,420,10,3,Moderate,Medical,Self-Pay,Y,53001.75,Major
+Central NY,Jefferson,18 to 29,136,F,White,Not Span/Hispanic,14.0,Emergency,Home or Self Care,2021,PRG028,NO_PROCEDURE,566,14,3,Minor,Medical,Self-Pay,Y,32978.77,Major
+Long Island,Nassau,50 to 69,115,F,Other Race,Spanish/Hispanic,12.0,Urgent,Home w/ Home Health Services,2021,CIR009,CAR003,165,5,3,Moderate,Surgical,Self-Pay,N,266792.05,Major
+New York City,Bronx,30 to 49,100,M,Other Race,Spanish/Hispanic,8.0,Emergency,Home or Self Care,2021,DIG019,GIS004,280,7,3,Major,Medical,Self-Pay,Y,92516.05,Major
+New York City,Queens,30 to 49,114,M,Other Race,Not Span/Hispanic,15.0,Emergency,Skilled Nursing Home,2021,INJ003,MST012,912,25,3,Major,Surgical,Self-Pay,Y,296384.23,Major
+Long Island,Nassau,50 to 69,114,M,Other Race,Spanish/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,3,Major,Medical,Self-Pay,Y,52570.0,Major
+Hudson Valley,Rockland,50 to 69,109,M,Black/African American,Not Span/Hispanic,71.0,Emergency,Home or Self Care,2021,CIR013,NO_PROCEDURE,134,4,3,Moderate,Medical,Self-Pay,Y,444846.92,Major
+Long Island,Suffolk,70 or Older,117,M,Other Race,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,3,Major,Medical,Self-Pay,Y,45360.37,Major
+Long Island,Nassau,50 to 69,117,M,White,Not Span/Hispanic,4.0,Elective,Home or Self Care,2021,GEN004,URN003,463,11,3,Major,Medical,Self-Pay,N,91856.85,Major
+Western NY,Erie,50 to 69,142,F,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,RSP008,ESA004,140,4,3,Major,Medical,Self-Pay,Y,6626.7,Major
+New York City,Manhattan,0 to 17,104,M,Black/African American,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,RSP005,ESA004,138,4,3,Moderate,Medical,Self-Pay,Y,51810.69,Major
+New York City,Kings,50 to 69,112,M,White,Not Span/Hispanic,33.0,Emergency,Inpatient Rehabilitation Facility,2021,INF012,OTR004,137,4,3,Extreme,Medical,Self-Pay,Y,467159.83,Major
+New York City,Bronx,30 to 49,104,M,Black/African American,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,INF007,IMG007,280,7,3,Major,Medical,Self-Pay,Y,19032.83,Major
+Hudson Valley,Dutchess,0 to 17,125,F,White,Not Span/Hispanic,1.0,Elective,Home or Self Care,2021,PNL007,EST002,640,15,3,Minor,Medical,Self-Pay,N,20209.0,Major
+Hudson Valley,Orange,70 or Older,125,M,White,Not Span/Hispanic,6.0,Emergency,Skilled Nursing Home,2021,BLD003,ADM001,660,16,3,Major,Medical,Self-Pay,Y,51338.77,Major
+Hudson Valley,Rockland,50 to 69,109,M,White,Not Span/Hispanic,2.0,Emergency,Home or Self Care,2021,END003,NO_PROCEDURE,420,10,3,Moderate,Medical,Self-Pay,Y,38684.87,Major
+Long Island,Nassau,70 or Older,115,M,Other Race,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,SYM002,OTR004,722,18,3,Moderate,Medical,Self-Pay,Y,38569.0,Major
+New York City,Richmond,50 to 69,103,F,Black/African American,Not Span/Hispanic,4.0,Emergency,Skilled Nursing Home,2021,NVS012,MAM011,47,1,3,Extreme,Medical,Self-Pay,Y,62296.03,Major
+New York City,Manhattan,30 to 49,OOS,F,Other Race,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,RSP011,RES005,143,4,3,Moderate,Medical,Self-Pay,Y,33118.61,Major
+New York City,Kings,18 to 29,112,F,Black/African American,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,PRG020,PGN002,560,14,3,Minor,Medical,Self-Pay,N,35935.94,Major
+New York City,Kings,50 to 69,114,F,Other Race,Unknown,3.0,Emergency,Home or Self Care,2021,END001,OTR004,427,10,3,Moderate,Medical,Self-Pay,Y,30438.25,Major
+Long Island,Suffolk,70 or Older,117,M,White,Not Span/Hispanic,8.0,Emergency,Inpatient Rehabilitation Facility,2021,CIR020,CAR008,30,1,3,Major,Surgical,Self-Pay,Y,149065.31,Major
+New York City,Manhattan,30 to 49,OOS,F,Other Race,Not Span/Hispanic,21.0,Urgent,Inpatient Rehabilitation Facility,2021,NVS009,ESA003,53,1,4,Extreme,Medical,Blue Cross/Blue Shield,N,491784.13,Extreme
+Long Island,Suffolk,50 to 69,117,F,White,Not Span/Hispanic,3.0,Emergency,Hospice - Medical Facility,2021,INF002,ESA004,720,18,4,Extreme,Medical,Blue Cross/Blue Shield,Y,129524.9,Extreme
+Western NY,Erie,50 to 69,140,M,Black/African American,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Blue Cross/Blue Shield,Y,25825.4,Extreme
+Central NY,Oneida,50 to 69,134,M,White,Not Span/Hispanic,9.0,Emergency,Expired,2021,INF012,ESA003,137,4,4,Extreme,Medical,Blue Cross/Blue Shield,Y,153426.61,Extreme
+Capital/Adirond,Warren,50 to 69,128,M,White,Not Span/Hispanic,9.0,Emergency,Expired,2021,INF002,RES007,720,18,4,Extreme,Medical,Blue Cross/Blue Shield,Y,120354.5,Extreme
+Long Island,Suffolk,70 or Older,119,F,White,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,INF012,OTR004,137,4,4,Extreme,Medical,Blue Cross/Blue Shield,Y,64054.77,Extreme
+Central NY,Onondaga,50 to 69,130,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Blue Cross/Blue Shield,Y,41404.32,Extreme
+Capital/Adirond,Clinton,18 to 29,129,M,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,INF012,NO_PROCEDURE,137,4,4,Extreme,Medical,Blue Cross/Blue Shield,Y,62433.4,Extreme
+Hudson Valley,Dutchess,50 to 69,105,M,White,Not Span/Hispanic,61.0,Emergency,Inpatient Rehabilitation Facility,2021,INF012,ESA003,5,4,4,Extreme,Surgical,Blue Cross/Blue Shield,Y,589402.59,Extreme
+Long Island,Nassau,50 to 69,117,M,White,Not Span/Hispanic,26.0,Emergency,Home w/ Home Health Services,2021,INF012,ADM019,137,4,4,Extreme,Medical,Blue Cross/Blue Shield,Y,297046.0,Extreme
+Western NY,Erie,0 to 17,142,M,White,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,RSP012,ESA003,130,4,4,Major,Medical,Blue Cross/Blue Shield,Y,78084.94,Extreme
+Long Island,Nassau,50 to 69,118,M,White,Not Span/Hispanic,9.0,Emergency,Home or Self Care,2021,INF002,ADM001,720,18,4,Extreme,Medical,Blue Cross/Blue Shield,Y,87315.8,Extreme
+Capital/Adirond,Rensselaer,50 to 69,121,F,White,Not Span/Hispanic,1.0,Emergency,Short-term Hospital,2021,NEO009,GIS004,110,3,4,Extreme,Medical,Blue Cross/Blue Shield,Y,17821.31,Extreme
+New York City,Manhattan,50 to 69,111,F,Other Race,Unknown,22.0,Emergency,Inpatient Rehabilitation Facility,2021,NEO072,ENP005,21,1,4,Moderate,Surgical,Blue Cross/Blue Shield,Y,586432.92,Extreme
+Long Island,Nassau,50 to 69,115,M,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,INF012,OTR004,137,4,4,Extreme,Medical,Blue Cross/Blue Shield,Y,68921.81,Extreme
+Capital/Adirond,Albany,50 to 69,120,M,White,Not Span/Hispanic,19.0,Emergency,Home or Self Care,2021,INF002,GNR004,720,18,4,Extreme,Medical,Blue Cross/Blue Shield,Y,153424.01,Extreme
+New York City,Richmond,30 to 49,103,M,White,Not Span/Hispanic,8.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Blue Cross/Blue Shield,Y,61328.67,Extreme
+Hudson Valley,Orange,50 to 69,109,M,White,Not Span/Hispanic,55.0,Emergency,Inpatient Rehabilitation Facility,2021,INF002,ESA003,710,18,4,Extreme,Surgical,Blue Cross/Blue Shield,Y,789519.54,Extreme
+Long Island,Nassau,50 to 69,118,M,White,Not Span/Hispanic,10.0,Emergency,Expired,2021,INJ037,SKB006,813,21,4,Extreme,Medical,Blue Cross/Blue Shield,Y,114226.6,Extreme
+Western NY,Erie,50 to 69,142,F,White,Not Span/Hispanic,81.0,Elective,Expired,2021,INJ036,GIS001,660,16,4,Major,Medical,Blue Cross/Blue Shield,N,2084496.75,Extreme
+Capital/Adirond,Albany,50 to 69,123,F,Black/African American,Not Span/Hispanic,25.0,Emergency,Inpatient Rehabilitation Facility,2021,INF002,ESA001,720,18,4,Extreme,Medical,Blue Cross/Blue Shield,Y,163801.12,Extreme
+Long Island,Suffolk,50 to 69,117,M,White,Not Span/Hispanic,4.0,Emergency,Expired,2021,CIR020,CNS006,21,1,4,Extreme,Surgical,Blue Cross/Blue Shield,N,138299.93,Extreme
+Long Island,Suffolk,50 to 69,117,M,White,Not Span/Hispanic,19.0,Emergency,Home or Self Care,2021,MBD017,SUD001,775,20,4,Extreme,Medical,Blue Cross/Blue Shield,Y,275210.0,Extreme
+New York City,Manhattan,50 to 69,100,M,Other Race,Unknown,22.0,Emergency,Home w/ Home Health Services,2021,INF002,RES007,720,18,4,Extreme,Medical,Blue Cross/Blue Shield,Y,530787.96,Extreme
+Capital/Adirond,Albany,30 to 49,124,M,White,Not Span/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,CIR038,ADM017,58,1,4,Extreme,Medical,Blue Cross/Blue Shield,Y,82872.43,Extreme
+Western NY,Erie,30 to 49,Unknown_ZIP,M,Black/African American,Unknown,2.0,Emergency,Court/Law Enforcement,2021,INJ022,RES007,812,21,4,Extreme,Medical,Department of Corrections,Y,22162.45,Extreme
+Western NY,Erie,50 to 69,140,M,Other Race,Unknown,15.0,Emergency,Court/Law Enforcement,2021,NEO051,HEP001,281,7,4,Major,Medical,Department of Corrections,Y,47326.5,Extreme
+Capital/Adirond,Franklin,50 to 69,129,M,Other Race,Not Span/Hispanic,2.0,Emergency,Short-term Hospital,2021,INF002,ADM021,720,18,4,Extreme,Medical,Department of Corrections,Y,16743.3,Extreme
+Hudson Valley,Westchester,50 to 69,105,M,Black/African American,Not Span/Hispanic,8.0,Emergency,Expired,2021,DIG012,GIS022,224,6,4,Major,Surgical,Department of Corrections,Y,220477.34,Extreme
+Hudson Valley,Dutchess,50 to 69,Unknown_ZIP,M,White,Not Span/Hispanic,1.0,Elective,Expired,2021,INF012,ESA003,137,4,4,Extreme,Medical,Federal/State/Local/VA,N,31357.0,Extreme
+Hudson Valley,Westchester,30 to 49,105,M,White,Not Span/Hispanic,5.0,Emergency,Home w/ Home Health Services,2021,INF012,ADM019,137,4,4,Extreme,Medical,Federal/State/Local/VA,Y,53288.0,Extreme
+Hudson Valley,Orange,50 to 69,127,M,White,Not Span/Hispanic,10.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Federal/State/Local/VA,Y,123442.52,Extreme
+Hudson Valley,Orange,50 to 69,125,F,Other Race,Not Span/Hispanic,22.0,Emergency,Skilled Nursing Home,2021,INF002,RES003,720,18,4,Extreme,Medical,Federal/State/Local/VA,Y,277182.75,Extreme
+Finger Lakes,Monroe,70 or Older,146,M,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,INJ033,ESA001,466,11,4,Extreme,Medical,Federal/State/Local/VA,Y,51121.98,Extreme
+Western NY,Wyoming,18 to 29,144,M,White,Not Span/Hispanic,8.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Federal/State/Local/VA,Y,28340.75,Extreme
+Central NY,Onondaga,50 to 69,131,M,Other Race,Not Span/Hispanic,14.0,Trauma,Home or Self Care,2021,INJ010,ESA003,135,4,4,Extreme,Medical,Federal/State/Local/VA,Y,205462.61,Extreme
+Finger Lakes,Monroe,50 to 69,146,M,Black/African American,Not Span/Hispanic,78.0,Emergency,Home w/ Home Health Services,2021,INF012,ADM019,137,4,4,Extreme,Medical,Federal/State/Local/VA,Y,197522.82,Extreme
+Hudson Valley,Westchester,70 or Older,100,F,Other Race,Unknown,9.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Federal/State/Local/VA,Y,184005.0,Extreme
+Finger Lakes,Monroe,50 to 69,146,F,White,Not Span/Hispanic,11.0,Emergency,Home or Self Care,2021,INF002,GIS011,710,18,4,Extreme,Surgical,Federal/State/Local/VA,Y,74910.23,Extreme
+Finger Lakes,Steuben,70 or Older,OOS,M,White,Not Span/Hispanic,27.0,Emergency,Skilled Nursing Home,2021,INF002,NO_PROCEDURE,720,18,4,Extreme,Medical,Federal/State/Local/VA,Y,78861.5,Extreme
+Finger Lakes,Monroe,50 to 69,146,M,Multi-racial,Not Span/Hispanic,29.0,Emergency,Home w/ Home Health Services,2021,INF002,ESA003,720,18,4,Extreme,Medical,Federal/State/Local/VA,Y,146931.52,Extreme
+Western NY,Erie,50 to 69,140,F,White,Not Span/Hispanic,1.0,Emergency,Short-term Hospital,2021,END003,NO_PROCEDURE,420,10,4,Extreme,Medical,Federal/State/Local/VA,N,13335.46,Extreme
+New York City,Kings,50 to 69,112,M,White,Spanish/Hispanic,40.0,Emergency,Expired,2021,INF012,ESA003,130,4,4,Extreme,Medical,Federal/State/Local/VA,Y,556250.56,Extreme
+Finger Lakes,Wayne,70 or Older,145,M,White,Not Span/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,RSP010,NO_PROCEDURE,137,4,4,Major,Medical,Federal/State/Local/VA,Y,19642.58,Extreme
+Finger Lakes,Monroe,70 or Older,144,M,White,Not Span/Hispanic,17.0,Emergency,Home w/ Home Health Services,2021,RSP010,ESA004,137,4,4,Major,Medical,Federal/State/Local/VA,Y,66409.82,Extreme
+New York City,Richmond,30 to 49,103,M,White,Spanish/Hispanic,35.0,Emergency,Home w/ Home Health Services,2021,INF002,RES010,5,18,4,Major,Surgical,Federal/State/Local/VA,Y,482236.84,Extreme
+New York City,Manhattan,30 to 49,114,M,Black/African American,Not Span/Hispanic,13.0,Elective,Home or Self Care,2021,NEO015,GIS009,231,6,4,Extreme,Surgical,Federal/State/Local/VA,N,205659.12,Extreme
+Central NY,Onondaga,0 to 17,136,F,Other Race,Not Span/Hispanic,103.0,Newborn,Short-term Hospital,2021,PNL001,ESA003,591,15,4,Major,Medical,Federal/State/Local/VA,N,444931.74,Extreme
+Finger Lakes,Monroe,70 or Older,145,M,White,Not Span/Hispanic,5.0,Emergency,Home w/ Home Health Services,2021,INF012,ADM019,137,4,4,Extreme,Medical,Federal/State/Local/VA,Y,20523.83,Extreme
+Finger Lakes,Monroe,70 or Older,146,M,White,Not Span/Hispanic,1.0,Emergency,Expired,2021,INF002,NO_PROCEDURE,720,18,4,Extreme,Medical,Federal/State/Local/VA,Y,13779.38,Extreme
+Western NY,Chautauqua,50 to 69,147,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,ADM016,137,4,4,Extreme,Medical,Federal/State/Local/VA,Y,17787.25,Extreme
+Western NY,Genesee,70 or Older,140,M,White,Not Span/Hispanic,8.0,Emergency,Skilled Nursing Home,2021,INF002,NO_PROCEDURE,720,18,4,Extreme,Medical,Federal/State/Local/VA,Y,27869.59,Extreme
+Finger Lakes,Monroe,30 to 49,146,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Federal/State/Local/VA,Y,15027.52,Extreme
+Finger Lakes,Monroe,70 or Older,146,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Expired,2021,CIR017,RES007,201,5,4,Extreme,Medical,Federal/State/Local/VA,Y,16268.01,Extreme
+Hudson Valley,Putnam,50 to 69,125,M,White,Not Span/Hispanic,8.0,Emergency,Short-term Hospital,2021,DIG018,NO_PROCEDURE,280,7,4,Extreme,Medical,"Managed Care, Unspecified",Y,61862.93,Extreme
+Capital/Adirond,Albany,0 to 17,123,F,White,Spanish/Hispanic,30.0,Elective,Home or Self Care,2021,GEN002,URN003,469,11,4,Major,Medical,"Managed Care, Unspecified",N,336575.68,Extreme
+Long Island,Nassau,30 to 49,114,M,Other Race,Spanish/Hispanic,40.0,Emergency,Expired,2021,INF002,HEP010,4,18,4,Extreme,Surgical,"Managed Care, Unspecified",Y,1346459.59,Extreme
+Capital/Adirond,Albany,50 to 69,124,F,White,Unknown,15.0,Emergency,Home or Self Care,2021,INF002,ESA004,710,18,4,Extreme,Surgical,"Managed Care, Unspecified",Y,142185.65,Extreme
+Capital/Adirond,Albany,50 to 69,122,M,Other Race,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,CIR013,NO_PROCEDURE,134,4,4,Extreme,Medical,"Managed Care, Unspecified",Y,23584.16,Extreme
+Capital/Adirond,Albany,50 to 69,120,F,White,Not Span/Hispanic,25.0,Emergency,Home or Self Care,2021,NEO059,LYM007,690,17,4,Extreme,Medical,"Managed Care, Unspecified",Y,243499.68,Extreme
+Long Island,Suffolk,50 to 69,117,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,RSP010,ADM001,137,4,4,Major,Medical,"Managed Care, Unspecified",Y,54785.1,Extreme
+Long Island,Suffolk,70 or Older,117,M,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,INF012,OTR004,137,4,4,Extreme,Medical,"Managed Care, Unspecified",Y,19372.2,Extreme
+Long Island,Suffolk,50 to 69,113,M,Other Race,Unknown,6.0,Emergency,Home w/ Home Health Services,2021,INF012,OTR004,137,4,4,Extreme,Medical,"Managed Care, Unspecified",N,53593.17,Extreme
+Western NY,Erie,30 to 49,142,M,White,Not Span/Hispanic,78.0,Elective,Expired,2021,SYM005,RES002,951,6,4,Major,Surgical,"Managed Care, Unspecified",N,1394218.64,Extreme
+Capital/Adirond,Albany,50 to 69,122,M,White,Not Span/Hispanic,7.0,Emergency,Home w/ Home Health Services,2021,DIG019,GIS027,280,7,4,Extreme,Medical,"Managed Care, Unspecified",Y,64525.65,Extreme
+Hudson Valley,Dutchess,50 to 69,124,M,Multi-racial,Not Span/Hispanic,9.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,"Managed Care, Unspecified",Y,33570.1,Extreme
+Hudson Valley,Dutchess,50 to 69,125,F,White,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,INF002,MST020,720,18,4,Major,Medical,"Managed Care, Unspecified",Y,57103.98,Extreme
+Capital/Adirond,Albany,50 to 69,133,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,INF012,RES005,137,4,4,Extreme,Medical,"Managed Care, Unspecified",Y,22520.79,Extreme
+Long Island,Suffolk,30 to 49,117,M,Other Race,Spanish/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,"Managed Care, Unspecified",Y,67723.6,Extreme
+Long Island,Suffolk,50 to 69,117,F,Other Race,Not Span/Hispanic,11.0,Emergency,Expired,2021,DIG025,ADM001,253,6,4,Extreme,Medical,"Managed Care, Unspecified",Y,191469.9,Extreme
+Capital/Adirond,Albany,18 to 29,121,F,Black/African American,Not Span/Hispanic,10.0,Emergency,Home or Self Care,2021,NVS009,CNS002,53,1,4,Extreme,Medical,"Managed Care, Unspecified",Y,148454.56,Extreme
+Capital/Adirond,Albany,30 to 49,120,M,White,Not Span/Hispanic,1.0,Emergency,Expired,2021,INF002,GIS021,710,18,4,Extreme,Surgical,"Managed Care, Unspecified",Y,80284.13,Extreme
+Long Island,Suffolk,50 to 69,117,F,Black/African American,Not Span/Hispanic,8.0,Emergency,Home w/ Home Health Services,2021,INF012,ADM019,137,4,4,Extreme,Medical,"Managed Care, Unspecified",Y,83493.76,Extreme
+Capital/Adirond,Albany,50 to 69,128,M,White,Not Span/Hispanic,3.0,Urgent,Short-term Hospital,2021,NEO008,GIS017,110,3,4,Major,Medical,"Managed Care, Unspecified",N,44757.64,Extreme
+Long Island,Nassau,30 to 49,115,M,Black/African American,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,ADM019,121,4,4,Extreme,Surgical,"Managed Care, Unspecified",Y,131272.2,Extreme
+Long Island,Suffolk,18 to 29,117,F,Other Race,Spanish/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,PRG028,PGN001,566,14,4,Moderate,Medical,"Managed Care, Unspecified",Y,49502.55,Extreme
+Capital/Adirond,Albany,0 to 17,128,F,White,Not Span/Hispanic,11.0,Elective,Home w/ Home Health Services,2021,MAL001,CAR019,160,5,4,Major,Surgical,"Managed Care, Unspecified",N,209728.38,Extreme
+Hudson Valley,Dutchess,30 to 49,124,M,White,Unknown,4.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,"Managed Care, Unspecified",Y,21182.1,Extreme
+Capital/Adirond,Albany,0 to 17,120,F,White,Not Span/Hispanic,31.0,Urgent,Home or Self Care,2021,PNL006,CAR013,630,15,4,Major,Surgical,"Managed Care, Unspecified",N,508285.49,Extreme
+New York City,Queens,50 to 69,114,M,Black/African American,Not Span/Hispanic,8.0,Emergency,Home w/ Home Health Services,2021,RSP008,ESA004,140,4,4,Extreme,Medical,Medicaid,Y,46693.28,Extreme
+Southern Tier,Broome,50 to 69,138,M,White,Not Span/Hispanic,34.0,Emergency,Home w/ Home Health Services,2021,INF002,ADM015,710,18,4,Extreme,Surgical,Medicaid,Y,124745.83,Extreme
+New York City,Queens,50 to 69,110,F,Other Race,Spanish/Hispanic,15.0,Emergency,Expired,2021,DIG019,CAR024,283,7,4,Extreme,Medical,Medicaid,Y,301432.41,Extreme
+Long Island,Nassau,50 to 69,117,M,White,Not Span/Hispanic,13.0,Urgent,Home or Self Care,2021,CIR019,CAR004,175,5,4,Extreme,Surgical,Medicaid,N,257041.72,Extreme
+Finger Lakes,Steuben,50 to 69,148,F,White,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,RSP010,ESA003,137,4,4,Major,Medical,Medicaid,Y,38728.75,Extreme
+Capital/Adirond,Albany,30 to 49,122,M,Black/African American,Not Span/Hispanic,9.0,Urgent,Home or Self Care,2021,DIG020,GIS004,282,7,4,Moderate,Medical,Medicaid,N,39717.85,Extreme
+Long Island,Nassau,18 to 29,115,M,Other Race,Spanish/Hispanic,7.0,Emergency,Home or Self Care,2021,INF002,RES007,720,18,4,Extreme,Medical,Medicaid,N,80869.17,Extreme
+Finger Lakes,Chemung,30 to 49,OOS,F,White,Not Span/Hispanic,4.0,Urgent,Home or Self Care,2021,CIR013,CAR008,134,4,4,Extreme,Medical,Medicaid,N,65365.65,Extreme
+Hudson Valley,Westchester,50 to 69,105,F,Other Race,Unknown,3.0,Emergency,Expired,2021,INF002,ADM001,720,18,4,Extreme,Medical,Medicaid,Y,204330.19,Extreme
+Capital/Adirond,Saratoga,50 to 69,128,M,White,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,INF012,NO_PROCEDURE,137,4,4,Major,Medical,Medicaid,Y,37947.81,Extreme
+Western NY,Erie,50 to 69,142,M,White,Not Span/Hispanic,1.0,Emergency,Expired,2021,CIR009,RES007,190,5,4,Extreme,Medical,Medicaid,Y,41928.91,Extreme
+New York City,Richmond,50 to 69,103,F,White,Not Span/Hispanic,9.0,Emergency,Home or Self Care,2021,INF002,ESA003,720,18,4,Extreme,Medical,Medicaid,Y,86635.02,Extreme
+New York City,Manhattan,50 to 69,100,F,Other Race,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,SYM013,ADM001,115,3,4,Extreme,Medical,Medicaid,Y,30329.39,Extreme
+New York City,Queens,50 to 69,112,M,Black/African American,Not Span/Hispanic,20.0,Emergency,Skilled Nursing Home,2021,INF012,ADM019,137,4,4,Extreme,Medical,Medicaid,Y,231171.34,Extreme
+New York City,Kings,50 to 69,112,F,White,Unknown,16.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Medicaid,N,177614.04,Extreme
+Hudson Valley,Dutchess,70 or Older,125,M,Other Race,Spanish/Hispanic,16.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Medicaid,Y,117503.1,Extreme
+New York City,Manhattan,50 to 69,104,M,Black/African American,Not Span/Hispanic,2.0,Urgent,Expired,2021,CIR020,NO_PROCEDURE,45,1,4,Extreme,Medical,Medicaid,N,21178.11,Extreme
+Central NY,Onondaga,0 to 17,132,F,Black/African American,Not Span/Hispanic,3.0,Emergency,Home w/ Home Health Services,2021,RSP012,ESA003,132,4,4,Major,Medical,Medicaid,Y,53902.5,Extreme
+New York City,Kings,50 to 69,112,F,Black/African American,Unknown,13.0,Emergency,Expired,2021,CIR021,CAR024,951,1,4,Extreme,Surgical,Medicaid,Y,267769.94,Extreme
+New York City,Manhattan,70 or Older,100,M,Other Race,Not Span/Hispanic,50.0,Emergency,Skilled Nursing Home,2021,INF012,GIS017,137,4,4,Extreme,Medical,Medicaid,Y,623881.77,Extreme
+New York City,Bronx,0 to 17,100,F,Black/African American,Not Span/Hispanic,100.0,Newborn,Home or Self Care,2021,PNL001,ESA004,591,15,4,Major,Medical,Medicaid,N,479701.06,Extreme
+Finger Lakes,Monroe,50 to 69,145,M,White,Not Span/Hispanic,6.0,Emergency,Left Against Medical Advice,2021,RSP011,RES003,194,5,4,Extreme,Medical,Medicaid,Y,31057.58,Extreme
+Long Island,Nassau,50 to 69,115,M,White,Spanish/Hispanic,24.0,Emergency,Skilled Nursing Home,2021,INF002,CAR008,710,18,4,Extreme,Surgical,Medicaid,Y,757472.75,Extreme
+Capital/Adirond,Warren,0 to 17,128,M,Other Race,Unknown,2.0,Newborn,Home or Self Care,2021,PNL001,ESA004,634,15,4,Major,Medical,Medicaid,N,15883.04,Extreme
+New York City,Bronx,30 to 49,104,M,Other Race,Spanish/Hispanic,6.0,Emergency,Home or Self Care,2021,INJ034,ADM015,466,11,4,Major,Medical,Medicaid,Y,101051.29,Extreme
+New York City,Bronx,50 to 69,104,M,Other Race,Spanish/Hispanic,18.0,Emergency,Skilled Nursing Home,2021,RSP017,ESA003,130,4,4,Extreme,Medical,Medicare,Y,351035.96,Extreme
+Western NY,Erie,70 or Older,142,F,White,Not Span/Hispanic,12.0,Emergency,Home w/ Home Health Services,2021,SKN003,MST019,364,9,4,Major,Surgical,Medicare,Y,43543.35,Extreme
+New York City,Queens,70 or Older,113,F,White,Not Span/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,INF002,ADM016,720,18,4,Extreme,Medical,Medicare,Y,51075.86,Extreme
+Western NY,Erie,70 or Older,140,F,White,Not Span/Hispanic,8.0,Emergency,Home or Self Care,2021,CIR017,IMG001,192,5,4,Extreme,Medical,Medicare,Y,44745.3,Extreme
+New York City,Kings,50 to 69,112,M,White,Not Span/Hispanic,14.0,Emergency,Expired,2021,INF002,HEP010,720,18,4,Extreme,Medical,Medicare,Y,344710.33,Extreme
+New York City,Bronx,70 or Older,104,F,Black/African American,Not Span/Hispanic,15.0,Emergency,Skilled Nursing Home,2021,INF002,CAR025,720,18,4,Extreme,Medical,Medicare,Y,320184.72,Extreme
+Long Island,Nassau,70 or Older,118,M,White,Not Span/Hispanic,1.0,Emergency,Home or Self Care,2021,DIG013,ADM001,244,6,4,Extreme,Medical,Medicare,Y,47851.12,Extreme
+Finger Lakes,Monroe,70 or Older,146,F,Other Race,Not Span/Hispanic,8.0,Emergency,Skilled Nursing Home,2021,INJ006,MST007,323,8,4,Extreme,Surgical,Medicare,Y,45969.37,Extreme
+Long Island,Nassau,70 or Older,118,F,White,Not Span/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,SYM012,GIS025,201,5,4,Major,Medical,Medicare,Y,54861.0,Extreme
+New York City,Queens,50 to 69,114,F,Black/African American,Spanish/Hispanic,13.0,Emergency,Skilled Nursing Home,2021,INF002,ESA003,720,18,4,Extreme,Medical,Medicare,Y,149734.54,Extreme
+Hudson Valley,Westchester,50 to 69,105,F,Black/African American,Not Span/Hispanic,5.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Medicare,Y,36546.0,Extreme
+Hudson Valley,Westchester,70 or Older,107,M,White,Not Span/Hispanic,6.0,Emergency,Skilled Nursing Home,2021,RSP010,NO_PROCEDURE,137,4,4,Extreme,Medical,Medicare,Y,50323.64,Extreme
+New York City,Queens,70 or Older,113,F,Other Race,Not Span/Hispanic,7.0,Emergency,Skilled Nursing Home,2021,INF002,HEP010,720,18,4,Major,Medical,Medicare,Y,72945.67,Extreme
+Long Island,Nassau,70 or Older,115,F,Other Race,Not Span/Hispanic,6.0,Emergency,Home w/ Home Health Services,2021,INF002,OTR004,720,18,4,Extreme,Medical,Medicare,Y,148344.41,Extreme
+Hudson Valley,Orange,50 to 69,109,M,Black/African American,Not Span/Hispanic,11.0,Trauma,Home w/ Home Health Services,2021,DIG025,NO_PROCEDURE,246,6,4,Major,Medical,Medicare,Y,109170.77,Extreme
+Hudson Valley,Orange,50 to 69,109,M,White,Not Span/Hispanic,25.0,Emergency,Expired,2021,INF012,ADM019,130,4,4,Extreme,Medical,Medicare,Y,333116.84,Extreme
+New York City,Kings,70 or Older,112,M,Other Race,Not Span/Hispanic,19.0,Emergency,Expired,2021,INF002,ESA003,720,18,4,Extreme,Medical,Medicare,Y,559556.03,Extreme
+Central NY,Onondaga,70 or Older,130,F,Black/African American,Not Span/Hispanic,5.0,Emergency,Expired,2021,INF002,ADM019,720,18,4,Extreme,Medical,Medicare,Y,16280.86,Extreme
+New York City,Kings,70 or Older,112,M,Other Race,Unknown,13.0,Emergency,Facility w/ Custodial/Supportive Care,2021,RSP002,ADM015,139,4,4,Extreme,Medical,Medicare,Y,104413.26,Extreme
+New York City,Bronx,70 or Older,104,F,Other Race,Not Span/Hispanic,15.0,Elective,Home w/ Home Health Services,2021,INF012,ADM019,137,4,4,Extreme,Medical,Medicare,Y,163677.36,Extreme
+Hudson Valley,Dutchess,70 or Older,Unknown_ZIP,F,Other Race,Spanish/Hispanic,9.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Medicare,Y,60913.51,Extreme
+Capital/Adirond,Fulton,70 or Older,120,M,White,Not Span/Hispanic,1.0,Emergency,Short-term Hospital,2021,CIR017,RES003,201,5,4,Extreme,Medical,Medicare,Y,20188.8,Extreme
+Central NY,Onondaga,70 or Older,130,M,White,Not Span/Hispanic,7.0,Emergency,Home w/ Home Health Services,2021,CIR009,CAR004,174,5,4,Extreme,Surgical,Medicare,N,53206.24,Extreme
+New York City,Queens,70 or Older,113,F,White,Spanish/Hispanic,3.0,Emergency,Hospice - Medical Facility,2021,INF012,ADM019,137,4,4,Extreme,Medical,Medicare,Y,35275.71,Extreme
+Long Island,Nassau,70 or Older,117,F,White,Not Span/Hispanic,11.0,Emergency,Hospice - Medical Facility,2021,CIR009,ESA003,190,5,4,Extreme,Medical,Medicare,Y,183495.04,Extreme
+Long Island,Nassau,50 to 69,117,F,Other Race,Not Span/Hispanic,78.0,Elective,Home w/ Home Health Services,2021,INJ037,MST020,792,21,4,Extreme,Surgical,Miscellaneous/Other,N,1313082.77,Extreme
+Long Island,Nassau,30 to 49,114,F,Other Race,Unknown,17.0,Emergency,Inpatient Rehabilitation Facility,2021,PRG028,PGN006,547,14,4,Major,Surgical,Miscellaneous/Other,Y,393413.84,Extreme
+Southern Tier,Broome,30 to 49,138,M,White,Not Span/Hispanic,11.0,Urgent,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Miscellaneous/Other,Y,56546.5,Extreme
+New York City,Kings,0 to 17,Unknown_ZIP,M,White,Not Span/Hispanic,22.0,Emergency,Inpatient Rehabilitation Facility,2021,INJ008,ESA003,912,25,4,Moderate,Surgical,Miscellaneous/Other,Y,320912.91,Extreme
+Hudson Valley,Westchester,70 or Older,105,F,White,Not Span/Hispanic,1.0,Elective,Expired,2021,FAC010,NO_PROCEDURE,862,23,4,Extreme,Medical,Miscellaneous/Other,N,6339.66,Extreme
+Capital/Adirond,Clinton,50 to 69,129,M,White,Not Span/Hispanic,11.0,Emergency,Home w/ Home Health Services,2021,INJ034,CAR024,466,11,4,Extreme,Medical,Miscellaneous/Other,Y,79020.2,Extreme
+Western NY,Erie,18 to 29,142,M,White,Not Span/Hispanic,1.0,Emergency,Expired,2021,INJ010,GIS005,911,25,4,Extreme,Surgical,Miscellaneous/Other,Y,50877.5,Extreme
+Hudson Valley,Dutchess,70 or Older,126,F,White,Not Span/Hispanic,5.0,Urgent,Expired,2021,FAC010,NO_PROCEDURE,862,23,4,Extreme,Medical,Miscellaneous/Other,N,20809.31,Extreme
+Central NY,Onondaga,70 or Older,130,M,White,Not Span/Hispanic,10.0,Emergency,Home w/ Home Health Services,2021,INJ006,ESA004,340,8,4,Extreme,Medical,Miscellaneous/Other,Y,45818.68,Extreme
+Capital/Adirond,Albany,18 to 29,117,M,White,Not Span/Hispanic,13.0,Trauma,Home or Self Care,2021,INJ016,CAR012,911,25,4,Major,Surgical,Miscellaneous/Other,Y,279427.84,Extreme
+Hudson Valley,Dutchess,70 or Older,125,F,White,Not Span/Hispanic,12.0,Urgent,Expired,2021,FAC010,NO_PROCEDURE,862,23,4,Extreme,Medical,Miscellaneous/Other,N,46250.21,Extreme
+New York City,Richmond,50 to 69,112,M,Other Race,Not Span/Hispanic,1.0,Trauma,Expired,2021,CIR009,CAR004,174,5,4,Extreme,Surgical,Miscellaneous/Other,Y,115449.19,Extreme
+Hudson Valley,Ulster,70 or Older,124,M,White,Not Span/Hispanic,22.0,Emergency,Hospice - Home,2021,INF002,RES007,720,18,4,Extreme,Medical,Miscellaneous/Other,Y,332410.42,Extreme
+New York City,Bronx,30 to 49,104,F,Black/African American,Unknown,55.0,Emergency,Inpatient Rehabilitation Facility,2021,INJ002,ESA003,4,8,4,Major,Surgical,Miscellaneous/Other,Y,556620.39,Extreme
+Finger Lakes,Monroe,70 or Older,146,M,Black/African American,Not Span/Hispanic,25.0,Emergency,Home w/ Home Health Services,2021,INJ005,MST011,911,25,4,Moderate,Surgical,Miscellaneous/Other,Y,143453.67,Extreme
+Long Island,Suffolk,30 to 49,117,F,Other Race,Unknown,15.0,Emergency,Skilled Nursing Home,2021,INJ005,ADM001,308,8,4,Major,Surgical,Miscellaneous/Other,Y,325714.67,Extreme
+Finger Lakes,Monroe,30 to 49,145,M,White,Not Span/Hispanic,10.0,Emergency,Home w/ Home Health Services,2021,INJ010,RES007,911,25,4,Extreme,Surgical,Miscellaneous/Other,Y,101166.33,Extreme
+Hudson Valley,Orange,30 to 49,109,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,PRG024,PGN003,540,14,4,Extreme,Surgical,Miscellaneous/Other,Y,54106.62,Extreme
+Long Island,Suffolk,50 to 69,117,M,White,Spanish/Hispanic,19.0,Emergency,Home w/ Home Health Services,2021,INF002,MST004,710,18,4,Extreme,Surgical,Miscellaneous/Other,Y,141213.07,Extreme
+New York City,Kings,18 to 29,112,F,Other Race,Not Span/Hispanic,9.0,Emergency,Expired,2021,INJ008,CNS005,910,25,4,Extreme,Surgical,Miscellaneous/Other,Y,166690.54,Extreme
+Hudson Valley,Westchester,70 or Older,105,F,White,Not Span/Hispanic,1.0,Emergency,Expired,2021,FAC010,NO_PROCEDURE,862,23,4,Extreme,Medical,Miscellaneous/Other,Y,10095.03,Extreme
+Long Island,Nassau,70 or Older,118,M,White,Not Span/Hispanic,29.0,Emergency,Skilled Nursing Home,2021,NVS005,CAR024,4,1,4,Major,Surgical,Miscellaneous/Other,N,535962.35,Extreme
+Hudson Valley,Dutchess,70 or Older,125,F,White,Unknown,1.0,Urgent,Expired,2021,FAC010,NO_PROCEDURE,862,23,4,Extreme,Medical,Miscellaneous/Other,N,3781.46,Extreme
+Finger Lakes,Monroe,50 to 69,145,M,White,Not Span/Hispanic,45.0,Emergency,Skilled Nursing Home,2021,INJ006,MST010,912,25,4,Extreme,Surgical,Miscellaneous/Other,N,525937.6,Extreme
+New York City,Bronx,18 to 29,113,M,Other Race,Unknown,6.0,Emergency,Expired,2021,INJ008,CNS005,20,1,4,Extreme,Surgical,Miscellaneous/Other,Y,113782.99,Extreme
+Capital/Adirond,Albany,30 to 49,148,M,White,Not Span/Hispanic,14.0,Urgent,Home or Self Care,2021,INJ036,ADM001,143,4,4,Extreme,Medical,Private Health Insurance,N,130200.1,Extreme
+Long Island,Nassau,30 to 49,110,M,White,Not Span/Hispanic,6.0,Emergency,Short-term Hospital,2021,INF002,ESA002,720,18,4,Extreme,Medical,Private Health Insurance,Y,157026.82,Extreme
+Finger Lakes,Chemung,50 to 69,148,M,White,Not Span/Hispanic,11.0,Emergency,Home or Self Care,2021,INF012,OTR004,137,4,4,Extreme,Medical,Private Health Insurance,Y,50706.64,Extreme
+Hudson Valley,Orange,70 or Older,125,F,Other Race,Spanish/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,INF012,ADM019,137,4,4,Extreme,Medical,Private Health Insurance,Y,46895.13,Extreme
+New York City,Queens,50 to 69,114,M,Other Race,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,INF002,ADM019,720,18,4,Extreme,Medical,Private Health Insurance,Y,65402.17,Extreme
+New York City,Manhattan,30 to 49,100,M,White,Spanish/Hispanic,50.0,Emergency,Inpatient Rehabilitation Facility,2021,RSP012,ESA003,5,4,4,Extreme,Surgical,Private Health Insurance,Y,1826225.7,Extreme
+New York City,Manhattan,30 to 49,103,M,White,Not Span/Hispanic,9.0,Emergency,Home or Self Care,2021,EYE006,NO_PROCEDURE,82,2,4,Extreme,Medical,Private Health Insurance,Y,143597.83,Extreme
+Capital/Adirond,Albany,70 or Older,120,M,White,Not Span/Hispanic,4.0,Emergency,Home w/ Home Health Services,2021,INF002,URN003,720,18,4,Extreme,Medical,Private Health Insurance,Y,37092.23,Extreme
+New York City,Manhattan,30 to 49,112,F,White,Not Span/Hispanic,8.0,Urgent,Expired,2021,NEO051,NO_PROCEDURE,281,7,4,Major,Medical,Private Health Insurance,N,90909.6,Extreme
+Central NY,Onondaga,30 to 49,132,M,Other Race,Spanish/Hispanic,3.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Private Health Insurance,Y,36230.1,Extreme
+New York City,Queens,50 to 69,113,M,Other Race,Unknown,16.0,Emergency,Home or Self Care,2021,INF002,RES005,720,18,4,Extreme,Medical,Private Health Insurance,Y,178697.35,Extreme
+Long Island,Nassau,50 to 69,117,M,White,Not Span/Hispanic,10.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Private Health Insurance,Y,118644.3,Extreme
+Hudson Valley,Orange,50 to 69,OOS,F,Black/African American,Not Span/Hispanic,2.0,Emergency,Short-term Hospital,2021,INF002,NO_PROCEDURE,720,18,4,Extreme,Medical,Private Health Insurance,Y,64244.24,Extreme
+New York City,Manhattan,30 to 49,OOS,F,White,Spanish/Hispanic,7.0,Urgent,Home or Self Care,2021,INF012,OTR004,137,4,4,Extreme,Medical,Private Health Insurance,N,88827.75,Extreme
+Central NY,Onondaga,0 to 17,130,M,White,Not Span/Hispanic,4.0,Emergency,Short-term Hospital,2021,RSP012,CNS002,132,4,4,Major,Medical,Private Health Insurance,Y,97323.5,Extreme
+New York City,Queens,50 to 69,117,F,White,Not Span/Hispanic,6.0,Emergency,Expired,2021,RSP007,ESA003,130,4,4,Extreme,Medical,Private Health Insurance,Y,299851.46,Extreme
+New York City,Queens,50 to 69,113,F,Other Race,Spanish/Hispanic,7.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Private Health Insurance,Y,88149.58,Extreme
+New York City,Manhattan,30 to 49,Unknown_ZIP,M,White,Unknown,22.0,Emergency,Home or Self Care,2021,MBD002,MHT003,751,19,4,Minor,Medical,Private Health Insurance,Y,163354.79,Extreme
+Western NY,Erie,70 or Older,140,M,White,Not Span/Hispanic,14.0,Emergency,Home w/ Home Health Services,2021,NEO014,GIS009,230,6,4,Major,Surgical,Private Health Insurance,Y,78135.44,Extreme
+Hudson Valley,Rockland,70 or Older,OOS,M,White,Unknown,14.0,Elective,Home w/ Home Health Services,2021,INF012,NO_PROCEDURE,137,4,4,Extreme,Medical,Private Health Insurance,N,69989.8,Extreme
+Hudson Valley,Orange,18 to 29,109,M,Other Race,Not Span/Hispanic,3.0,Emergency,Short-term Hospital,2021,DIG019,GIS027,280,7,4,Major,Medical,Private Health Insurance,Y,62076.28,Extreme
+New York City,Queens,50 to 69,113,M,Other Race,Not Span/Hispanic,20.0,Emergency,Short-term Hospital,2021,INJ008,CNS014,910,25,4,Major,Surgical,Private Health Insurance,Y,217303.27,Extreme
+Finger Lakes,Monroe,50 to 69,144,M,White,Not Span/Hispanic,16.0,Emergency,Expired,2021,CIR009,ESA002,161,5,4,Extreme,Surgical,Private Health Insurance,Y,715622.01,Extreme
+New York City,Manhattan,30 to 49,105,F,Black/African American,Not Span/Hispanic,13.0,Emergency,Home or Self Care,2021,CIR027,CAR012,167,5,4,Extreme,Surgical,Private Health Insurance,Y,590636.1,Extreme
+Hudson Valley,Westchester,50 to 69,105,M,White,Not Span/Hispanic,6.0,Emergency,Home or Self Care,2021,GEN003,GIS024,951,5,4,Extreme,Surgical,Private Health Insurance,Y,73771.3,Extreme
+New York City,Manhattan,70 or Older,125,M,Other Race,Unknown,51.0,Emergency,Expired,2021,CIR011,MAM005,166,5,4,Extreme,Surgical,Self-Pay,Y,1149813.12,Extreme
+Long Island,Suffolk,70 or Older,117,M,Other Race,Not Span/Hispanic,9.0,Emergency,Skilled Nursing Home,2021,INF002,NO_PROCEDURE,720,18,4,Extreme,Medical,Self-Pay,Y,107160.56,Extreme
+New York City,Kings,0 to 17,112,M,Black/African American,Unknown,1.0,Newborn,Expired,2021,PNL001,RES007,612,15,4,Extreme,Medical,Self-Pay,N,31563.7,Extreme
+New York City,Kings,18 to 29,112,M,Other Race,Spanish/Hispanic,12.0,Emergency,Home or Self Care,2021,INF002,ESA004,720,18,4,Extreme,Medical,Self-Pay,Y,103901.71,Extreme
+New York City,Kings,50 to 69,112,M,Black/African American,Not Span/Hispanic,6.0,Emergency,Short-term Hospital,2021,INF012,ADM016,137,4,4,Extreme,Medical,Self-Pay,Y,42013.0,Extreme
+Hudson Valley,Westchester,50 to 69,105,M,Other Race,Spanish/Hispanic,11.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Self-Pay,Y,80902.05,Extreme
+New York City,Bronx,50 to 69,OOS,M,Black/African American,Not Span/Hispanic,3.0,Emergency,Court/Law Enforcement,2021,INJ022,ESA004,816,21,4,Extreme,Medical,Self-Pay,Y,17612.48,Extreme
+Finger Lakes,Chemung,50 to 69,148,M,White,Not Span/Hispanic,16.0,Emergency,Skilled Nursing Home,2021,CIR019,ESA004,194,5,4,Extreme,Medical,Self-Pay,Y,68023.92,Extreme
+Finger Lakes,Monroe,70 or Older,145,F,White,Not Span/Hispanic,11.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Self-Pay,Y,30027.41,Extreme
+Central NY,Onondaga,50 to 69,130,F,White,Not Span/Hispanic,1.0,Emergency,Expired,2021,CIR030,CAR008,169,5,4,Extreme,Surgical,Self-Pay,Y,110677.7,Extreme
+Finger Lakes,Steuben,50 to 69,148,M,White,Not Span/Hispanic,4.0,Emergency,Home or Self Care,2021,INF012,ADM019,137,4,4,Extreme,Medical,Self-Pay,Y,19048.05,Extreme
+New York City,Manhattan,50 to 69,100,F,Other Race,Not Span/Hispanic,9.0,Emergency,Home or Self Care,2021,INF002,ADM019,720,18,4,Extreme,Medical,Self-Pay,Y,77086.27,Extreme
+Central NY,Onondaga,30 to 49,132,M,Other Race,Not Span/Hispanic,24.0,Emergency,Home or Self Care,2021,CIR017,CAR022,163,5,4,Extreme,Surgical,Self-Pay,Y,292114.29,Extreme
+Long Island,Suffolk,70 or Older,117,M,White,Not Span/Hispanic,3.0,Urgent,Home or Self Care,2021,MBD003,MHT003,753,19,4,Moderate,Medical,Self-Pay,N,33499.23,Extreme
+Central NY,Onondaga,70 or Older,136,F,White,Not Span/Hispanic,15.0,Emergency,Expired,2021,CIR020,CNS009,21,1,4,Extreme,Surgical,Self-Pay,Y,310767.77,Extreme
+Central NY,Oneida,50 to 69,135,F,White,Not Span/Hispanic,8.0,Urgent,Expired,2021,CIR020,ESA003,45,1,4,Extreme,Medical,Self-Pay,N,52755.04,Extreme
+Western NY,Erie,30 to 49,142,M,Other Race,Unknown,16.0,Urgent,Home or Self Care,2021,INF010,CNS002,42,1,4,Extreme,Medical,Self-Pay,N,50512.59,Extreme
+New York City,Kings,50 to 69,112,F,Black/African American,Not Span/Hispanic,12.0,Emergency,Skilled Nursing Home,2021,RSP012,ESA003,133,4,4,Major,Medical,Self-Pay,Y,119664.42,Extreme
+Central NY,Onondaga,30 to 49,130,F,White,Not Span/Hispanic,3.0,Emergency,Home or Self Care,2021,MBD020,SUD001,773,20,4,Extreme,Medical,Self-Pay,Y,63851.61,Extreme
+New York City,Manhattan,50 to 69,100,M,Black/African American,Not Span/Hispanic,1.0,Emergency,Expired,2021,END003,RES007,420,10,4,Extreme,Medical,Self-Pay,Y,41138.54,Extreme
+Hudson Valley,Westchester,50 to 69,105,M,White,Not Span/Hispanic,10.0,Emergency,Home or Self Care,2021,CIR018,RES007,179,5,4,Extreme,Surgical,Self-Pay,Y,241270.16,Extreme
+Capital/Adirond,Saratoga,18 to 29,128,M,Other Race,Not Span/Hispanic,7.0,Emergency,Home or Self Care,2021,INF002,ADM019,720,18,4,Extreme,Medical,Self-Pay,Y,81742.49,Extreme
+Long Island,Nassau,30 to 49,117,M,White,Not Span/Hispanic,22.0,Emergency,Home or Self Care,2021,CIR026,CAR008,305,8,4,Major,Surgical,Self-Pay,Y,241999.36,Extreme
+New York City,Manhattan,70 or Older,100,F,Black/African American,Not Span/Hispanic,10.0,Emergency,Skilled Nursing Home,2021,CIR019,ESA004,194,5,4,Extreme,Medical,Self-Pay,Y,203648.17,Extreme
+Long Island,Suffolk,50 to 69,117,M,Other Race,Not Span/Hispanic,13.0,Emergency,Home or Self Care,2021,INF002,RES003,720,18,4,Extreme,Medical,Self-Pay,Y,110911.79,Extreme
